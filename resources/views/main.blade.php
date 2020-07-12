@@ -10,8 +10,9 @@
                         <div class="row">
                             <div class="col-md-10 col-sm-12 col-md-offset-1 slider-text">
                                 <div class="slider-text-inner text-center">
-                                    <h1>НОВЫЙ МЕТОД ОРГАНИЗАЦИИ СТРОИТЕЛЬСТВА: <br> УСЛУГИ НЕЗАВИСИМОГО, ЧАСТНОГО <span>"ЗАКАЗЧИКА"</span>
-                                        ИНВЕСТОРАМ ПРИ СТРОИТЕЛЬСТВЕ ЛЮБЫХ ОБЪЕКТОВ</h1>
+                                    <h1>ВПЕРВЫЕ В УЗБЕКИСТАНЕ УСЛУГУ ЧАСТНОГО <span>ЗАКАЗЧИКА</span>
+                                        <br> ИНВЕСТОРАМ ПО ОРГАНИЗАЦИИ СТРОИТЕЛЬСТВА ЛЮБЫХ ОБЪЕКТОВ, ИМЕННО, МЕТОДОМ <span>"ХАЛАЛ"</span>
+                                    </h1>
                                     <a href="#colorlib-contact" class="btn btn-primary mr-15">Оставить заявку</a>
                                     <a href="#services-btn" class="btn-light btn-primary ">Подробнее</a>
                                 </div>
@@ -25,7 +26,7 @@
                         <div class="row">
                             <div class="col-md-10 col-sm-12 col-md-offset-1 slider-text">
                                 <div class="slider-text-inner text-center">
-                                    <h1>МЫ ЗНАЕМ КАК ИЗМЕНИТЬ СИТУАЦИЮ В ПОЛЬЗУ ИНВЕСТОРОВ В СТРОИТЕЛЬСТВЕ И ЖИЛЬЕ</h1>
+                                    <h1><span>KLICHOF GROUP</span> - ЗНАЕТ, КАК ИЗМЕНИТЬ СИТУАЦИЮ В ПОЛЬЗУ ИНВЕСТОРОВ ПРИ ЛЮБЫХ СТРОИТЕЛЬСТВ</h1>
                                     <a href="#colorlib-contact" class="btn btn-primary mr-15">Оставить заявку</a>
                                     <a href="#services-btn" class="btn-light btn-primary ">Подробнее</a>
                                 </div>
@@ -39,8 +40,9 @@
                         <div class="row">
                             <div class="col-md-10 col-sm-12 col-md-offset-1 slider-text">
                                 <div class="slider-text-inner text-center">
-                                    <h1><span>KLICHOF GROUP</span> - ЭТО КАЧЕСТВО, ЭКОНОМИЯ ВРЕМЕНИ И <br>СРЕДСТВ ДО
-                                        <span>50%</span> ИЛИ <span>ДВЕ</span> КВАРТИРЫ вместо <span>ОДНОЙ</span></h1>
+                                    <h1>МЫ ГАРАНТИРУЕМ ОБЕСПЕЧИТЬ КАЧЕСТВЕННОЕ СТРОИТЕЛЬСТВО ЛЮБЫХ ОБЪЕКТОВ, 
+                                        ЭКОНОМИЮ ВРЕМЕНИ И ФИНАНСОВЫХ СРЕДСТВ ДО <span>50%</span> ИЛИ <span>ДО ДВУХ КВАРТИР ВМЕСТО ОДНОЙ</span>
+                                    </h1>
                                     <a href="#colorlib-contact" class="btn btn-primary mr-15">Оставить заявку</a>
                                     <a href="#services-btn" class="btn-light btn-primary ">Подробнее</a>
                                 </div>
@@ -55,6 +57,21 @@
                             <div class="col-md-10 col-sm-12 col-md-offset-1 slider-text">
                                 <div class="slider-text-inner text-center">
                                     <h1><span>KLICHOF GROUP</span> РАБОТАЕТ ТОЛЬКО НА ВАС, ДЛЯ ВАС И <br> В ПОЛЬЗУ ВАС
+                                    </h1>
+                                    <a href="#colorlib-contact" class="btn btn-primary mr-15">Оставить заявку</a>
+                                    <a href="#services-btn" class="btn-light btn-primary ">Подробнее</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li style="background-image: url({{asset('images/img_bg_6.jpeg')}});">
+                    <div class="overlay"></div>
+                    <div class="container-fluid">
+                        <div class="row">
+                            <div class="col-md-10 col-sm-12 col-md-offset-1 slider-text">
+                                <div class="slider-text-inner text-center">
+                                    <h1>ДОВЕРЬТЕ <span>KLICHOF GROUP</span>: УПРАВЛЕНИЕ И КОНТРОЛЬ ЗА ПРОЕКТИРОВАНИЕМ И КАЧЕСТВЕННЫМ СТРОИТЕЛЬСТВОМ ЛЮБЫХ ОБЪЕКТОВ И МНОГОЭТАЖНЫХ ЖИЛЫХ ДОМОВ
                                     </h1>
                                     <a href="#colorlib-contact" class="btn btn-primary mr-15">Оставить заявку</a>
                                     <a href="#services-btn" class="btn-light btn-primary ">Подробнее</a>
