@@ -94,11 +94,9 @@
                 <div class="col-md-12 text-center">
                     <p>
                         <small class="block">
-                            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                             &copy;
                             <script>document.write(new Date().getFullYear());</script>
-                            Авторские права | <a href="https://kfgroup.uz" target="_blank">KLICHOF GROUP</a>
-                            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                            Авторские права | <a href="http://klichofgroup.uz/" target="_blank">KLICHOF GROUP</a>
                         </small>
                     </p>
                 </div>
