@@ -17,8 +17,8 @@
                             <ul class="dropdown">
                                 <li><a href="{{route('management')}}">Управление строительством</a></li>
                                 <li><a href="{{route('construction')}}">Сопровождение строительства</a></li>
-                                <li><a href="{{route('document')}}">Строительная документация</a></li>
-                                <li><a href="{{route('organization')}}">строительства жилья</a></li>
+                                <li><a href="{{route('document')}}">Сопровождение строительной документации</a></li>
+                                <li><a href="{{route('organization')}}">Организации строительства жилья</a></li>
                             </ul>
                         </li>
                         <li><a href="{{route('main')}}#colorlib-services">ПОЧЕМУ МЫ?</a></li>
