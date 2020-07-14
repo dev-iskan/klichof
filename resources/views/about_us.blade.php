@@ -177,4 +177,65 @@
             </div>
         </div>
     </div>
+    <div id="colorlib-services">
+        <div class="container">
+            <div class="col-md-10 col-md-offset-1 text-center colorlib-heading animate-box">
+                <h2>ПЛАНИРУЕМЫЕ УСЛУГИ <span>KLICHOF GROUP</span></h2>
+            </div>
+        </div>
+        <div class="container services-width">
+            <div class="row">
+                <div class="col-md-4 text-center animate-box">
+                    <div class="services about-ser">
+							<span class="icon">
+								<i class="flaticon-search"></i>
+							</span>
+                        <div class="desc fsz">
+                            <p>сюрвейинг (контрольного обмер объема, качества и стоимости выполненных работ) объектов строительства для инвесторов и банков</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 text-center animate-box">
+                    <div class="services about-ser">
+							<span class="icon">
+								<i class="flaticon-construction"></i>
+							</span>
+                        <div class="desc fsz">
+                            <p>создание лаборатории по испытанию качества строительных материалов, изделий, конструкций</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 text-center animate-box">
+                    <div class="services about-ser">
+							<span class="icon">
+								<i class="flaticon-property"></i>
+							</span>
+                        <div class="desc fsz">
+                            <p>техническое обследование зданий и сооружений</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-md-offset-2 text-center animate-box">
+                    <div class="services about-ser">
+							<span class="icon">
+								<i class="flaticon-design"></i>
+							</span>
+                        <div class="desc fsz">
+                            <p>аудит проектно - сметной документации</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 text-center animate-box">
+                    <div class="services about-ser">
+							<span class="icon">
+								<i class="flaticon-cost"></i>
+							</span>
+                        <div class="desc fsz">
+                            <p>финансово - строительный аудит</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 @endsection
