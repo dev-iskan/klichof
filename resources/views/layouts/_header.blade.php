@@ -11,18 +11,18 @@
                 </div>
                 <div class="col-xs-10 text-right menu-1 t-20 ">
                     <ul>
-                        <li><a href="{{route('about_us')}}">О КОМПАНИИ</a></li>
+                        <li><a href="{{route('about_us')}}">@lang('pages.header.about')</a></li>
                         <li class="has-dropdown">
-                            <a>УСЛУГИ</a>
+                            <a>@lang('pages.header.services')</a>
                             <ul class="dropdown">
-                                <li><a href="{{route('management')}}">Управление строительством</a></li>
-                                <li><a href="{{route('construction')}}">Сопровождение строительства</a></li>
-                                <li><a href="{{route('document')}}">Сопровождение строительной документации</a></li>
-                                <li><a href="{{route('organization')}}">Организации строительства жилья</a></li>
+                                <li><a href="{{route('management')}}">@lang('pages.header.management')</a></li>
+                                <li><a href="{{route('construction')}}">@lang('pages.header.construction')</a></li>
+                                <li><a href="{{route('document')}}">@lang('pages.header.document')</a></li>
+                                <li><a href="{{route('organization')}}">@lang('pages.header.organization')</a></li>
                             </ul>
                         </li>
-                        <li><a href="{{route('main')}}#colorlib-services">ПОЧЕМУ МЫ?</a></li>
-                        <li><a href="#colorlib-contact">КОНТАКТЫ</a></li>
+                        <li><a href="{{route('main')}}#colorlib-services">@lang('pages.header.why_we')</a></li>
+                        <li><a href="#colorlib-contact">@lang('pages.header.contact')</a></li>
                     </ul>
                 </div>
             </div>
