@@ -23,6 +23,15 @@
                         </li>
                         <li><a href="{{route('main')}}#colorlib-services">ПОЧЕМУ МЫ?</a></li>
                         <li><a href="#colorlib-contact">КОНТАКТЫ</a></li>
+                        <li>
+                            <ul>
+                                <li><a href="">UZ</a>
+                                </li>
+                                <li><a href="">RU</a>
+                                </li><li><a href="">ENG</a>
+                                </li>
+                            </ul>
+                        </li>
                     </ul>
                 </div>
             </div>
