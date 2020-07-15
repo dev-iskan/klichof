@@ -3,8 +3,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>KLICHOF GROUP</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content=""/>
-    <meta name="keywords" content=""/>
+    <meta name="description" content="klichofgroup, klichof group, заказчик, услуга заказчика, Управление строительством, Сопровождение строительства, Сопровождение cтроительной документации, Организации строительства жилья, технический заказчик"/>
+    <meta name="keywords" content="klchofgroup"/>
     <meta name="author" content=""/>
 
     <!-- Facebook and Twitter integration -->
