@@ -23,6 +23,13 @@
                         </li>
                         <li><a href="{{route('main')}}#colorlib-services">@lang('pages.header.why_we')</a></li>
                         <li><a href="#colorlib-contact">@lang('pages.header.contact')</a></li>
+                        <li>
+                            <ul>
+                                <li><a href="">UZ</a></li>
+                                <li><a href="">RU</a></li>
+                                <li><a href="">ENG</a></li>
+                            </ul>
+                        </li>
                     </ul>
                 </div>
             </div>
