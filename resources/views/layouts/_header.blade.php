@@ -24,13 +24,11 @@
                         <li><a href="{{route('main')}}#colorlib-services">ПОЧЕМУ МЫ?</a></li>
                         <li><a href="#colorlib-contact">КОНТАКТЫ</a></li>
                         <li>
-                            <ul>
-                                <li><a href="">UZ</a>
-                                </li>
-                                <li><a href="">RU</a>
-                                </li><li><a href="">ENG</a>
-                                </li>
-                            </ul>
+                            <select name="lang" id="lang">
+                                <option value="uzb">UZ</option>
+                                <option value="rus">RU</option>
+                                <option value="eng">EN</option>
+                            </select>
                         </li>
                     </ul>
                 </div>
