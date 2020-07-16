@@ -156,6 +156,34 @@ return [
         'planned-body-3' => 'bino va inshootlarni texnik ko‘rigidan o‘tkazish',
         'planned-body-4' => 'loyiha va smeta hujjatlarini tekshirish (audit)',
         'planned-body-5' => 'moliyaviy va qurilish auditi',
-    ]
+    ],
+    'construction' => [
+        'header-other' => 'QURILISHNI NAZORAT QILISHNI ISHONCHLI QO‘LLARGA BERISH LOZIM',
+        'service-header' => '"HALOL" USULI BILAN <span>QURILISHLARNI NAZORAT QILISHNI</span> XUSUSIY "BUYURTMACHI" XIZMATI ORQALI TASHKIL ETISH',
+        'service-text' => '<p>Har qanday qurilish ko‘pincha istiqbolli loyiha sifatida boshlanib, keyinchalik esa, baʼzi bir insofsiz loyihalovchilar, pudratchilar va yetkazib beruvchilar tufayli investorlarning bosh og‘rig‘iga aylanadi. Ish bajarish 
+                                muddatlarining cho‘zilishi, amaldagi qilinadigan ishlar sifatining pastligi, 
+                                qurilish harajatlarining doimiy oshib borishi va hokazo. Afsuslar bo‘lsinki, bularning hammasi, ko‘pgina qurilishlarning "surunkali kasallik" laridir </p>
+                            <p>Agar qurilish qilish muqarrar bo‘lsa, KLICHOF GROUP ("Texnik buyurtmachi" sifatida) 
+                                yuqoridagi barcha xavf xatarlarni "HALOL" usulida loyihalash va sifatli qurilish ishlarini boshqarish va nazorat kilish qismidagi "Qurilishni nazorat qilish" xizmati orqali bartaraf etadi.</p>',
+        'service-consist-header' => 'XIZMAT TARKIBI',
+        'service-consist-text-1' => '<p>Har qanday qurilish nazoratini tashkil etishda, xususiy "Buyurtmachi" vazifasini shartnoma doirasida quyidagi asosiy xizmatlar to‘plamini bajarish uchun shaxsan 
+                                        "KLICHOF GROUP" huquq, majburiyat va javobgarliklarni o‘z zimmasiga oladi:</p>',
+        'service-consist-text-2' => '<p>Xizmatlarning asosiy tarkibi o‘zgarishsiz qoladi,  va ularning batafsil tarkibi,  ularga qilinadign qo‘shimcha yoki kamaytirishlar, har doim KLICHOF GROUP va 
+                                        investorlar tomonidan shartnoma asosida tartibga solinadi</p>',
+        'service-consist-part-1' => 'kelishilgan smeta qiymatlarining oshmasligini nazorat qiladi va oldini oladi',
+        'service-consist-part-2' => 'yetkazib beruvchi va pudrat tashkilotlari bilan kelishilgan muddatlarda yetkazib berishni va ishlarni bajarilishini nazorat qiladi va taʼminlaydi',
+        'service-consist-part-3' => 'barcha qurilish normalariga asosan ishlarning sifatli bajarilishini nazorat qiladi va taʼminlaydi',
+        'service-consist-part-4' => 'barcha qurilish hujjatlarini tartibga soladi va huquqiy ko‘makni tashkil etadi',
+        'service-consist-part-5' => 'belgilangan tartibda qurilish obyektini topshiradi va qilingan ishlarni qabul qiladi',
+        'service-consist-part-6' => 'investor uchun syurveying (bajarilgan ishlar hajmi, sifati va narxi bo’yicha nazorat o‘lchovini) tashkil etadi',
+        'service-price-header' => 'XIZMAT NARXI',
+        'service-price-text' => '<p>KLICHOF GROUP ning bu xizmatlar uchun narxi, qilinadigan xizmatlar hajmidan kelib chiqadi va belgilangan soliqlarni hisobga olgan holda, qurilishga ketgan haqiqiy xarajatlar miqdorining 5% gacha tashkil etadi. 
+                                    Har qanday qurilishda bu harajatlarni investorlar osonlik bilan nazorat qilishlari va tekshirishlari mumkin.</p>
+                                <p>Amalda esa, bu xizmatlarning narxi kelishilgan bo‘lib, mutaxassislarning oylik maoshi bilan cheklanadi va negadir, investorlar mablag‘ni aynan shu xizmatlar evaziga tejashga harakat qiladilar. Shuning uchun, 
+                                    asosan, baʼzi bir insofsiz "mutaxassis"lar, aniq bir foyda evaziga,  loyihalovchi, pudrat va yetkazib beruvchi tashkilotlar foydasiga ishlashadi.</p>
+                                <p>Ushbu xizmatlar uchun, qurilishga ketgan haqiqiy xarajatlar miqdorining 5% gacha to‘lash bilan, KLICHOF GROUP "HALOL" usulini qo‘llab, 
+                                    loyihalash va sifatli qurilish ishlarini boshqarish va nazorat qilishni "Texnik buyurtmachi" qismida tashkil qiladi va investorlar mablag‘larini 10% dan 20% gacha tejaydi.
+                                    </p>',
+    ],
 ];
 

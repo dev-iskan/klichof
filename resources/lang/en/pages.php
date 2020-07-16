@@ -158,5 +158,31 @@ return [
         'planned-body-3' => 'technical inspection of buildings and structures ',
         'planned-body-4' => 'audit of design and estimate documentation',
         'planned-body-5' => 'financial and construction inspection',
-    ]
+    ],
+    'construction' => [
+        'header-other' => 'CONSTRUCTION SUPPORT SHALL BE TRANSFERRED TO THE SAFE HANDS',
+        'service-header' => 'PROVISION A PRIVATE "OWNER’S ENGINEER" SERVICES FOR THE <span>CONSTRUCTION SUPPORT</span> USING THE "HALAL" METHOD',
+        'service-text' => '<p>Any construction often begins as an ambitious project, and at the end, it turns into a headache for investors due to some dishonest designers, contractors and suppliers. 
+                                Cost estimate grows, time schedules are constantly shifting, the quality of work in practice is lower than planned, etc. Unfortunately, these are "chronic diseases" of many constructions. </p>
+                            <p>If construction is unavoidable, the KLICHOF GROUP will help the investors to eliminate all these primary and other risks through the "Construction Support" service (a service of a private 
+                                "Technical Customer") by applying the "HALAL" method when organizing the management and control over design and high-quality construction</p>',
+        'service-consist-header' => 'SCOPE OF SERVICE',
+        'service-consist-text-1' => '<p>Within the framework of the contract for the provision of a private "Owner’s Engineer" services for the construction support, 
+                                        the KLICHOF GROUP team will assume the rights, obligations and responsibility for the performance of the basic scope of services, but not limited to the following:</p>',
+        'service-consist-text-2' => '<p>The basic scope of services remains unchanged, and their details, with the inclusion of additional or reduced volumes of these services, should always be regulated in the contract 
+                                        by the KLICHOF GROUP team and investors</p>',
+        'service-consist-part-1' => 'monitoring and prevention of the cost increase in BOQs in comparison with the agreed initial version',
+        'service-consist-part-2' => 'monitoring and ensuring the implementation of agreed with contractors procurement schedules and execution of work',
+        'service-consist-part-3' => 'monitoring and ensuring the high-quality execution of work in compliance with all standards',
+        'service-consist-part-4' => 'arrangement of legal support and ensuring the order of all construction documentation',
+        'service-consist-part-5' => 'arrangement of acceptance of all executed works and commissioning of the facility in the prescribed manner',
+        'service-consist-part-6' => 'arrangement of project inspection of the volume, quality and cost of executed works for the investor',
+        'service-price-header' => 'COST OF SERVICES',
+        'service-price-text' => '<p>The cost of these services of the KLICHOF GROUP team depends on the volume of services and is up to 5% of the amount of reasonable actual construction costs only, 
+                                    taking into account the imposed taxes, that at any time can easily be controlled and checked by investors during any construction.</p>
+                                <p>In practice, the cost of these services is negotiated and limited to the salary of specialists. And for some reason, investors try to save money on these services. Therefore, some 
+                                    unscrupulous "specialists" mainly work for the convenience of designers, contractors and suppliers with understandable motivation.</p>
+                                <p>Рaying up the cost of these services to the KLICHOF GROUP team up to 5%, investors will save their funds from 10% to 20% by applying the "HALAL" method when arranging the 
+                                    management and control over design and high-quality construction in the part of the "Owner’s Engineer" services.</p>',
+    ],
 ];

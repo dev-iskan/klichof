@@ -11,8 +11,9 @@
                             <div class="row">
                                 <div class="col-md-12">
                                     <div class="services-desc">
-                                        <p>Заполните предлагаемую форму либо позвоните нам по телефону. Наши специалисты получат от вас информацию и ответят на интересующие вас вопросы.</p>											<div class="text-center">
-                                            <a href="#colorlib-contact" class="btn btn-primary">Отправьте заявку с сайта</a>
+                                        <p>@lang('pages.application.content-1')</p>	
+                                        <div class="text-center">
+                                            <a href="#colorlib-contact" class="btn btn-primary">@lang('pages.buttons.apply')</a>
                                         </div>
                                     </div>
                                 </div>
@@ -22,9 +23,9 @@
                             <div class="row">
                                 <div class="col-md-12">
                                     <div class="services-desc">
-                                        <p>Анализ полученной от вас информации позволяет нам определить именно какие наши услуги будут для вас максимально выгодным и поможет кардинально решать ваши задачи или проблемы. </p>
+                                        <p>@lang('pages.application.content-2')</p>
                                         <div class="text-center">
-                                            <a href="#colorlib-contact" class="btn btn-primary">Отправьте заявку с сайта</a>
+                                            <a href="#colorlib-contact" class="btn btn-primary">@lang('pages.buttons.apply')</a>
                                         </div>
                                     </div>
                                 </div>
@@ -34,8 +35,9 @@
                             <div class="row">
                                 <div class="col-md-12">
                                     <div class="services-desc">
-                                        <p>На личной встрече в нашем офисе, у вас будет возможность более подробно познакомиться с нашими услугами и убедиться в компетенции наших специалистов.</p>											<div class="text-center">
-                                            <a href="#colorlib-contact" class="btn btn-primary">Отправьте заявку с сайта</a>
+                                        <p>@lang('pages.application.content-3')</p>											
+                                        <div class="text-center">
+                                            <a href="#colorlib-contact" class="btn btn-primary">@lang('pages.buttons.apply')</a>
                                         </div>
                                     </div>
                                 </div>
@@ -46,9 +48,9 @@
                             <div class="row">
                                 <div class="col-md-12">
                                     <div class="services-desc">
-                                        <p>Детально излагаем планы и обсудим все пункты подготовленного коммерческого предложения для вас, актуализируем договор, исходя из особенностей ваших текущих задач.</p>
+                                        <p>@lang('pages.application.content-4')</p>
                                         <div class="text-center">
-                                            <a href="#colorlib-contact" class="btn btn-primary">Отправьте заявку с сайта</a>
+                                            <a href="#colorlib-contact" class="btn btn-primary">@lang('pages.buttons.apply')</a>
                                         </div>
                                     </div>
                                 </div>
@@ -59,9 +61,9 @@
                             <div class="row">
                                 <div class="col-md-12">
                                     <div class="services-desc">
-                                        <p>Определив цель и объем работ, мы полностью берем на себя ответственность за выполнением всех обязанностей, которые мы взяли на себя в рамках заключённого договора.</p>
+                                        <p>@lang('pages.application.content-5')</p>
                                         <div class="text-center">
-                                            <a href="#colorlib-contact" class="btn btn-primary">Отправьте заявку с сайта</a>
+                                            <a href="#colorlib-contact" class="btn btn-primary">@lang('pages.buttons.apply')</a>
                                         </div>
                                     </div>
                                 </div>
@@ -79,7 +81,7 @@
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-md-12 colorlib-heading colorlib-heading2 animate-box text-center">
-                        <h2>СОПРОВОЖДЕНИЕ СТРОИТЕЛЬСТВА НАДО ПЕРЕДАТЬ В НАДЁЖНЫЕ РУКИ</h2>
+                        <h2>@lang('pages.construction.header-other')</h2>
                     </div>
                 </div>
             </div>
@@ -89,23 +91,18 @@
     <div id="colorlib-testimony">
         <div class="container">
             <div class="col-md-10 col-md-offset-1 text-center colorlib-heading animate-box">
-                <h2>ОКАЗАНИЕ УСЛУГ ЧАСТНОГО ЗАКАЗЧИКА ПО <span>СОПРОВОЖДЕНИЮ СТРОИТЕЛЬСТВА</span> МЕТОДОМ "ХАЛАЛ"</h2>
+                <h2>@lang('pages.construction.service-header')</h2>
             </div>
-            <div class="col-md-12 colorlib-services-text">
-                <p>Любое строительство часто начинается как многообещающий проект, а в результате превращается в головную боль для инвесторов из-за некоторых непорядочных проектировщиков, подрядчиков и поставщиков. Смета растёт, сроки постоянно сдвигаются, качество работ на практике ниже, чем планировалось, и т.д. К сожалению, это "хронические болезни" некоторых строительств. </p>
-                <p>Если строительства не избежать, то KLICHOF GROUP поможет инвесторам устранить все эти основные и другие риски через услугу по "Сопровождению строительства" (услуга частного "Технического заказчика") путём применения метода "ХАЛАЛ" при организации управления и контроля за проектированием и качественным строительством.</p>
-            </div>
+            <div class="col-md-12 colorlib-services-text">@lang('pages.construction.service-text')</div>
         </div>
     </div>
 
     <div id="colorlib-services">
         <div class="container">
             <div class="col-md-10 col-md-offset-1 text-center colorlib-heading animate-box">
-                <h2>СОСТАВ УСЛУГ</h2>
+                <h2>@lang('pages.construction.service-consist-header')</h2>
             </div>
-            <div class="col-md-12 colorlib-services-text text-center">
-                <p>В рамках договора об оказании услуг частного "Заказчика" по сопровождению любого строительства KLICHOF GROUP примет на себя права, обязательства и ответственность за выполнением основного состава услуг, но не ограничиваясь следующим:</p>
-            </div>
+            <div class="col-md-12 colorlib-services-text text-center">@lang('pages.construction.service-consist-text-1')</div>
         </div>
         <div class="container">
             <div class="row">
@@ -115,7 +112,7 @@
 								<i class="flaticon-money-1"></i>
 							</span>
                         <div class="desc">
-                            <p>контроль и недопущение роста стоимости сметы по сравнению с согласованным вариантом</p>
+                            <p>@lang('pages.construction.service-consist-part-1')</p>
                         </div>
                     </div>
                 </div>
@@ -125,7 +122,7 @@
 								<i class="flaticon-loan"></i>
 							</span>
                         <div class="desc">
-                            <p>контроль и обеспечение выполнения согласованных с поставщиками, подрядчиками сроков поставок и выполнения работ</p>
+                            <p>@lang('pages.construction.service-consist-part-2')</p>
                         </div>
                     </div>
                 </div>
@@ -135,7 +132,7 @@
 								<i class="flaticon-reverse-engineering"></i>
 							</span>
                         <div class="desc">
-                            <p>контроль и обеспечение качественного выполнения работ с соблюдением всех нормативов</p>
+                            <p>@lang('pages.construction.service-consist-part-3')</p>
                         </div>
                     </div>
                 </div>
@@ -145,7 +142,7 @@
 								<i class="flaticon-checklist"></i>
 							</span>
                         <div class="desc">
-                            <p>организация юридического сопровождения и обеспечение порядка всей строительной документации</p>
+                            <p>@lang('pages.construction.service-consist-part-4')</p>
                         </div>
                     </div>
                 </div>
@@ -155,7 +152,7 @@
 								<i class="flaticon-permission"></i>
 							</span>
                         <div class="desc">
-                            <p>организация приемки всех работ и сдачи объекта в установленном порядке</p>
+                            <p>@lang('pages.construction.service-consist-part-5')</p>
                         </div>
                     </div>
                 </div>
@@ -165,14 +162,12 @@
 								<i class="flaticon-blueprint"></i>
 							</span>
                         <div class="desc">
-                            <p>организация сюрвейинга (контрольного обмер объема, качества и стоимости выполненных работ) для инвестора</p>
+                            <p>@lang('pages.construction.service-consist-part-6')</p>
                         </div>
                     </div>
                 </div>
                 <div class="container">
-                    <div class="col-md-12 colorlib-services-text text-center">
-                        <p>Основной состав услуг остается неизменным, а их детализация, с включением дополнительных или сокращением объёмов этих услуг, всегда регулируется KLICHOF GROUP и инвесторами в договоре</p>
-                    </div>
+                    <div class="col-md-12 colorlib-services-text text-center">@lang('pages.construction.service-consist-text-2')</div>
                 </div>
             </div>
         </div>
@@ -181,13 +176,9 @@
     <div id="colorlib-testimony">
         <div class="container">
             <div class="col-md-10 col-md-offset-1 text-center colorlib-heading animate-box">
-                <h2>СТОИМОСТЬ УСЛУГ</h2>
+                <h2>@lang('pages.construction.service-price-header')</h2>
             </div>
-            <div class="col-md-12 colorlib-services-text">
-                <p>Стоимость данных услуг KLICHOF GROUP зависит от объёмов услуг и составляет до 5% от суммы только обоснованных фактических расходов на строительство с учетом установленных налогов, которых в любой момент могут свободно контролировать и проверить инвесторы при любом строительстве.</p>
-                <p>На практике стоимость данных услуг является договорной и ограничивается заработной платой специалистов. И почему-то инвесторы стараются сэкономить деньги именно на данных услугах. Поэтому некоторые недобросовестные "специалисты", в основном, работают в интересах проектировщиков, подрядчиков и поставщиков с понятной мотивацией.</p>
-                <p>Оплатив стоимость данных услуг KLICHOF GROUP до 5%, инвесторы сэкономят свои средства от 10% до 20% путём применения метода "ХАЛАЛ" при организации управления и контроля за проектированием и качественным строительством в части "Технического заказчика".</p>
-            </div>
+            <div class="col-md-12 colorlib-services-text">@lang('pages.construction.service-price-text')</div>
         </div>
     </div>
 @endsection
