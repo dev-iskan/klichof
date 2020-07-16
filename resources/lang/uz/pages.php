@@ -126,6 +126,36 @@ return [
         'research4' => 'Moslashtirilgan byudjet',
         'research5' => 'Loyihalarni kompleks boshqaruvi',
         'research6' => 'To’liq shaffoflik ',
+    ],
+    'about' => [
+        'desc' => '<h3>HAR QANDAY OBYEKTLAR VA UY-JOY QURILISHINI TASHKIL ETISHDA, VAZIYATNI INVESTORLAR FOYDASIGA O’ZGARTIRA OLADI</h3>
+                        <p><b>Qurilish investorlariga:</b> albatta har qanday qurilish / qayta qurish obyektlarida pudratchi, loyihachi va qurilish materiallari yetkazib beruvchi tashkilotlar muhim ishtirokchilar hisoblanadi. Ammo ayni vaqtda, investorlarning o’zi qurilish sohasida mutaxassis bo’lmasa yoki oxirida "sifatsiz, qimmat, uzoq muddatli qurilish" egasi bo’lishni xohlashmasa, barcha qurilish ishlarini investorlar foydasiga qanday tashkil qilishni biladigan xususiy "Buyurtmachi" ishtiroki ko’zda tutilsa, maqsadga muvofiq bo’ladi.</p>
+                        <p>Shuning uchun biz, mustaqil va professional qurilish muhandis - maslahatchi mutaxassislar, siz qurilish investorlariga, barcha iqtisodiy manfaatlaringiz va yuridik huquqlaringizni himoya qilgan holda, O’zbekistondagi har qanday qurilishlaringizda "HALOL" usuli orqali sifatni ta’minlay oladigan, vaqtingizni va eng muhimi mablag’laringizni 5% dan 50% gacha tejalishini kafolatlaydigan, loyihalash va sifatli qurilishni boshqarish va nazorat qilish bo’yicha xususiy "Buyurtmachi" xizmatini taklif qilamiz.</p>
+                        <p><b>Uy - joy investorlariga:</b> biz "Buyurtmachi - quruvchilar" emasmiz va biz uy-joy oluvchilarga "uy-joy qurilishida sherik bo’lishni" taklif qilmaymiz va biz "mavjud bo’lmagan yoki hali qurilayotgan xonadonlarni" sotmaymiz. </p>
+                        <p>Biz, qurilish bo’yicha mustaqil va professional muhandis - maslahatchi sifatida, sizga, o’z xonadoni qurilishiga sarmoya qo’ygan yoki unga muhtoj oilalarga (sizning haqiqiy oilaviy daromadingizni inobatga olgan holda) "aynan asoslangan narxlar + 10%" da ko’p qavatli uy-joy qurilishini tashkil etish bo’yicha xususiy "Buyurtmachi" xizmatini taklif qilamiz.</p>
+                        <p>Biz, faqat sizga, siz uchun va sizning foydangizni ko’zlab, loyihalash va sifatli qurilish ishlarini boshqarish va nazorat qilish orqali "HALOL" usulida sifatli qurilishni tashkil etishda vaqtingiz va eng muhimi mablag’laringiz 50% gacha oqilona tejash yoki "bitta xonadon o’rniga ikkitagacha xonadonga ega bo’lish" ni ta’minlaymiz.</p>
+                        <p>Uy - joy qurilishini "HALOL" usulida tashkil qilishning yana bir asosiy afzalliklaridan biri, bu ko’p qavatli uy-joy majmua qurilishidan oldin sizning barcha "bo’lajak qo’shnilaringizning aniq belgilanishidir".  Shuning uchun, siz "birinchi navbatda qo’shnilarni tanlaysiz" va keyingina o’z vaqtida, arzon va sifatli xonadon egasi bo’lasiz.</p>
+                        <p>O’zingiz uchun to’g’ri tanlov va foydali qaror qabul qiling!</p>
+                        <p>Hurmat bilan, <b>Furqat Hamdamov</b>.</p>',
+        'principle-header' => '<span>KLICHOF GROUP</span NING ISHLASH PRINSIPLARI',
+        'principle-body-1' => 'har doim o’z va’dalarini bajarish, hech qachon va hech qanday sharoitda ularni birinchi bo’lib buzmaslik',
+        'principle-body-2' => 'o’z narxi va o’z vaqtida sifatli bajarilgan hamda to’liq hujjatlashtirilgan ishlar, faqatgina oxirida - moliyaviy manfaatlar',
+        'principle-body-3' => 'faqat "HALOL" usuli bilan xizmat ko’rsatgan holda foyda topish va hech qachon, hech qanday manfaat evaziga bu prinsipni buzmaslik',
+        'order-header' => '<span>KLICHOF GROUP</span> NING ISH TARTIBI',
+        'order-body-1' => 'barcha xavf-xatarlarni hisobga olgan holda, bilim va malakali yondashuv bilan hamma ishlarni o’zaro hamkorlik, qo’llab-quvvatlash, to’liq muvofiqlashtirish va nazorat qilishni "yagona darcha" prinsipida tashkil etadi',
+        'order-body-2' => 'doimiy monitoring mavjudligi, qurilish-montaj, ishga tushirish, sinov ishlarini olib boorish jaroyonida, barcha xavf-xatarlarni hisobga olgan holda doimiy nazorat qiladi',
+        'order-body-3' => '24/7 o‘zluksiz tartibda qurilish maydonchasidagi ishlar ko‘lamini yuqori darajada nazorat qilish va loyihani amalga oshirishning joriy holati haqida investorlarni o‘z vaqtida xabardor qiladi',
+        'order-body-4' => 'AEK (asosiy effekt ko‘rsatkichlarini) aks ettiruvchi doimiy hisobotlarni kundalik, haftalik va oylik asosda taqdim etadi',
+        'order-body-5' => 'yagona 3D modelini chizmalar asosida qurish, qabul qilingan loyihaviy qarorlarini yetarliligi, to‘liqligi va nuqsonlarning yo‘qligini muhandislik yondashuvi mavjudligi orqali tekshiradi',
+        'order-body-6' => 'samarasiz chiqimlarni aniqlaydi va kelgusi xarajatlarni joriy xarajatlar nazoratining (smeta hujjatlari tahlili) yuqori darajasi orqali  tanqidiy baholaydi',
+        'order-body-7' => 'jamoani shakllantirishda o‘zgaruvchanlik prinsipi, chunki uning tarkibi loyihani amalga oshirish bosqichiga qarab o‘zgarishi mumkin',
+        'order-body-8' => 'jamoada qurilish bo‘yicha muhandis-maslahatchilar, auditorlar, soliq va xavf-xatarlarni boshqarish bo‘yicha mutaxassislar ishtiroki orqali loyihaning har bir bosqichida keng qamrovli yondashuv prinsipini olib boradi',
+        'planned-header' => '<span>KLICHOF GROUP</span> NING REJASIDAGI XIZMATLARI',
+        'planned-body-1' => 'investorlar va banklar uchun qurilish obyektlarini syurveying (bajarilgan ishlar hajmi, sifati va narxi bo’yicha nazorat o‘lchovini) tashkil qilish',
+        'planned-body-2' => 'qurilish materiallarining, mahsulotlarining, konstruksiyalarning sifatini sinash uchun laboratoriya tashkil qilish',
+        'planned-body-3' => 'bino va inshootlarni texnik ko‘rigidan o‘tkazish',
+        'planned-body-4' => 'loyiha va smeta hujjatlarini tekshirish (audit)',
+        'planned-body-5' => 'moliyaviy va qurilish auditi',
     ]
 ];
 

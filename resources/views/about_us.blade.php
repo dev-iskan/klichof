@@ -39,7 +39,7 @@
     <div id="colorlib-services">
         <div class="container">
             <div class="col-md-10 col-md-offset-1 text-center colorlib-heading animate-box">
-                <h2>@lang('pages.about.services-header1')<span>KLICHOF GROUP</span></h2>
+                <h2>@lang('pages.about.principle-header')</h2>
             </div>
         </div>
         <div class="container services-width">
@@ -50,7 +50,7 @@
 								<i class="flaticon-sell"></i>
 							</span>
                         <div class="desc fsz">
-                            <p>всегда выполнять свои обещания, никогда и ни при каких условиях не нарушать их первыми</p>
+                            <p>@lang('pages.about.principle-body-1')</p>
                         </div>
                     </div>
                 </div>
@@ -60,7 +60,7 @@
 								<i class="flaticon-board"></i>
 							</span>
                         <div class="desc fsz">
-                            <p>фактическая стоимость, качественная и своевременная работа, грамотная оформления документов для всех работ, и только в конце - финансовые интересы</p>
+                            <p>@lang('pages.about.principle-body-2')</p>
                         </div>
                     </div>
                 </div>
@@ -70,7 +70,7 @@
 								<i class="flaticon-wage"></i>
 							</span>
                         <div class="desc fsz">
-                            <p>зарабатывать вознаграждение за оказание услуг только методом "ХАЛАЛ", и никогда не нарушать эти принципы, какие бы выгоды это ни сулило.</p>
+                            <p>@lang('pages.about.principle-body-3')</p>
                         </div>
                     </div>
                 </div>
@@ -80,7 +80,7 @@
     <div id="colorlib-services">
         <div class="container">
             <div class="col-md-10 col-md-offset-1 text-center colorlib-heading animate-box">
-                <h2>ПОРЯДОК РАБОТЫ <span>KLICHOF GROUP</span></h2>
+                <h2>@lang('pages.about.order-header')</h2>
             </div>
         </div>
         <div class="container services-width">
@@ -91,7 +91,7 @@
 								<i class="flaticon-permission"></i>
 							</span>
                         <div class="desc fsz">
-                            <p>принцип "единого окна", который заключается в организации взаимодействия, сопровождения, полной координации и контроля всех работ с учетом рисков, а также со знанием и грамотным подходом ко всему</p>
+                            <p>@lang('pages.about.order-body-1')</p>
                         </div>
                     </div>
                 </div>
@@ -101,7 +101,7 @@
 								<i class="flaticon-technician"></i>
 							</span>
                         <div class="desc fsz">
-                            <p>наличие постоянного мониторинга, в ходе которого контролируется весь ход выполнения строительно - монтажных, пуско-наладочных, испытательных работ на объекте строительства с учетом всех рисков</p>
+                            <p>@lang('pages.about.order-body-2')</p>
                         </div>
                     </div>
                 </div>
@@ -111,7 +111,7 @@
 								<i class="flaticon-icon-1556324"></i>
 							</span>
                         <div class="desc fsz">
-                            <p>высокий уровень контроля всего состава работ на объекте строительства в режиме 24/7 и своевременное информирование инвесторов о текущем статусе реализации проекта</p>
+                            <p>@lang('pages.about.order-body-3')</p>
                         </div>
                     </div>
                 </div>
@@ -121,7 +121,7 @@
 								<i class="flaticon-checklist"></i>
 							</span>
                         <div class="desc fsz">
-                            <p>предоставление постоянных отчётов, отражающих основные КПЭ (ключевые показатели эффективности) KPI (key performance indicators) на ежедневной, еженедельной и ежемесячной основе</p>
+                            <p>@lang('pages.about.order-body-4')</p>
                         </div>
                     </div>
                 </div>
@@ -131,7 +131,7 @@
 								<i class="flaticon-reverse-engineering"></i>
 							</span>
                         <div class="desc fsz">
-                            <p>присутствие инженерного подхода с выстраиванием единой 3D - модели на основании имеющихся чертежей, проверка принятых проектных решений на адекватность, полноту и отсутствие недочётов</p>
+                            <p>@lang('pages.about.order-body-5')</p>
                         </div>
                     </div>
                 </div>
@@ -141,7 +141,7 @@
 								<i class="flaticon-money-1"></i>
 							</span>
                         <div class="desc fsz">
-                            <p>высокий уровень контроля текущих затрат с возможностью критической оценки будущих затрат и выявления неэффективных расходов (анализ сметной документации).</p>
+                            <p>@lang('pages.about.order-body-6')</p>
                         </div>
                     </div>
                 </div>
@@ -151,7 +151,7 @@
 								<i class="flaticon-user"></i>
 							</span>
                         <div class="desc fsz">
-                            <p>принцип вариативности при формировании команды, поскольку её состав может меняться в зависимости от стадии реализации проекта</p>
+                            <p>@lang('pages.about.order-body-7')</p>
                         </div>
                     </div>
                 </div>
@@ -161,7 +161,7 @@
 								<i class="flaticon-team-1"></i>
 							</span>
                         <div class="desc fsz">
-                            <p>комплексный подход на каждом этапе проекта, так как в команде участвуют инженеры-консультанты по строительству, аудиторы и специалисты по налогообложению, финансовому консультированию, управлению рисками</p>
+                            <p>@lang('pages.about.order-body-8')</p>
                         </div>
                     </div>
                 </div>
@@ -171,7 +171,7 @@
     <div id="colorlib-services">
         <div class="container">
             <div class="col-md-10 col-md-offset-1 text-center colorlib-heading animate-box">
-                <h2>ПЛАНИРУЕМЫЕ УСЛУГИ <span>KLICHOF GROUP</span></h2>
+                <h2>@lang('pages.about.planned-header')</h2>
             </div>
         </div>
         <div class="container services-width">
@@ -182,7 +182,7 @@
 								<i class="flaticon-search"></i>
 							</span>
                         <div class="desc fsz">
-                            <p>сюрвейинг (контрольного обмер объема, качества и стоимости выполненных работ) объектов строительства для инвесторов и банков</p>
+                            <p>@lang('pages.about.planned-body-1')</p>
                         </div>
                     </div>
                 </div>
@@ -192,7 +192,7 @@
 								<i class="flaticon-construction"></i>
 							</span>
                         <div class="desc fsz">
-                            <p>создание лаборатории по испытанию качества строительных материалов, изделий, конструкций</p>
+                            <p>@lang('pages.about.planned-body-2')</p>
                         </div>
                     </div>
                 </div>
@@ -202,7 +202,7 @@
 								<i class="flaticon-property"></i>
 							</span>
                         <div class="desc fsz">
-                            <p>техническое обследование зданий и сооружений</p>
+                            <p>@lang('pages.about.planned-body-3')</p>
                         </div>
                     </div>
                 </div>
@@ -212,7 +212,7 @@
 								<i class="flaticon-design"></i>
 							</span>
                         <div class="desc fsz">
-                            <p>аудит проектно - сметной документации</p>
+                            <p>@lang('pages.about.planned-body-4')</p>
                         </div>
                     </div>
                 </div>
@@ -222,7 +222,7 @@
 								<i class="flaticon-cost"></i>
 							</span>
                         <div class="desc fsz">
-                            <p>финансово - строительный аудит</p>
+                            <p>@lang('pages.about.planned-body-5')</p>
                         </div>
                     </div>
                 </div>

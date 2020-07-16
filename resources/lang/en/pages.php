@@ -128,5 +128,35 @@ return [
         'research4' => 'Flexible budget',
         'research5' => 'Integrated project management',
         'research6' => 'Complete transparency',
+    ],
+    'about' => [
+        'desc' => '<h3>KLICHOF GROUP - KNOWS HOW TO CHANGE THE SITUATION IN FAVOR OF INVESTORS IN ANY CONSTRUCTION</h3>
+                        <p><b>For investors in construction:</b> designers, contractors and suppliers are key players in any construction/reconstruction projects. But at the same time, if Investors, by themselves are not specialists in construction and do not want to get in total a "low-quality, expensive and never-ending construction project", the participation of an independent private "Customer", who knows how to organize construction work for the benefit of Investors, is also required.</p>
+                        <p>Therefore, KLICHOF GROUP, as independent, professional construction consulting engineers, offers to Construction Investors, its services for guaranteed quality assurance, saving of time and, most importantly, your funds from 5% to 50% in any type of construction within Uzbekistan by applying the "HALAL" method when organizing the management and control over design and high-quality construction. By providing these services, KLICHOF GROUP protects all your economic interests and legal rights.</p>
+                        <p><b>For the investors in their own housing:</b> we are not "Customers and developers" and we do not offer you "to become a partner in equity housing construction", and we "do not sell you non-existent apartments or apartments under construction"</p>
+                        <p>We, independent and professional construction consulting engineers, offer you, Investors or families in need of housing (taking your real family income into account), our services of an independent private "Customer" on the organizing of multi-storey residential buildings construction "at reasonable actual prices + 10%", as affordable housing.</p>
+                        <p>And we will work only for you, on behalf of you and for the benefit of you, providing quality, saving of time and your funds up to 50% or "up to two apartments instead of one" by applying the "HALAL" method when organizing the management and control over design and high-quality construction of your housing</p>
+                        <p>One of the main advantages of the "HALAL" method is that "all your future neighbors in apartments will be exactly identified prior to the beginning of the housing construction". Therefore, you "first choose your neighbors and only then get a new high-quality apartment in a timely manner".</p>
+                        <p>Make the right choice and take a profitable decision for yourself!</p>
+                        <p>Sincerely yours, <b>Furkat Khamdamov</b>.</p>',
+        'principle-header' => 'WORKING PRINCIPLES OF <span>KLICHOF GROUP</span>',
+        'principle-body-1' => 'always keep promises, never and under no circumstances break them first',
+        'principle-body-2' => 'the actual cost, high-quality and timely work, competent documentation of all work, and only at the end financial interests',
+        'principle-body-3' => 'earning fee for the provision of services only using the "HALAL" method, and never violate these principles, whatever benefits that might bring',
+        'order-header' => 'WORKING PROCEDURE OF <span>KLICHOF GROUP</span>',
+        'order-body-1' => 'principle of a "single window", which is to arrange the interaction, support, complete coordination and control of all work, taking into consideration the risks, as well as competent and knowledgeable approach to everything',
+        'order-body-2' => 'existence of constant monitoring, during which the entire progress of construction and installation, commissioning, testing works at the construction facility is monitored, taking all risks into account',
+        'order-body-3' => 'high level of control over the entire scope of work at the construction facility in 24/7 mode and timely informing investors about the current status of the project implementation',
+        'order-body-4' => 'submission of regular reports that reflect the main KPIs (key performance indicators) on a daily, weekly and monthly basis',
+        'order-body-5' => 'existence of engineering approach by unifying 3D model existing drawings, checking the design decisions for adequacy, completeness and absence of defects',
+        'order-body-6' => 'high level of current cost control with the ability to critically evaluate the future costs and identify inefficient expenditures (analysis of estimate documentation)',
+        'order-body-7' => 'principle of variability in the team formation, since its composition may change depending on the stage of project implementation',
+        'order-body-8' => 'integrated approach at every stage of the project, as the team includes construction consulting engineers, auditors and experts in taxation, financial consulting, and risk management specialists',
+        'planned-header' => 'PLANNED SERVICES OF <span>KLICHOF GROUP</span>',
+        'planned-body-1' => 'surveying (inspection of the volume, quality and cost of construction facilities for investors and banks',
+        'planned-body-2' => 'creation of a laboratory for testing the quality of construction materials, goods, structures',
+        'planned-body-3' => 'technical inspection of buildings and structures ',
+        'planned-body-4' => 'audit of design and estimate documentation',
+        'planned-body-5' => 'financial and construction inspection',
     ]
 ];
