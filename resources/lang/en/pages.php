@@ -185,4 +185,31 @@ return [
                                 <p>Рaying up the cost of these services to the KLICHOF GROUP team up to 5%, investors will save their funds from 10% to 20% by applying the "HALAL" method when arranging the 
                                     management and control over design and high-quality construction in the part of the "Owner’s Engineer" services.</p>',
     ],
+    'document' => [
+        'header-other' => 'THE ORDER IN THE CONSTRUCTION DOCUMENTATION IS REQUIRED IN ANY CASE AND AT ANY TIME',
+        'service-header' => 'PROVISION A PRIVATE "CUSTOMER SERVICES" FOR THE <span>CONSTRUCTION DOCUMENTATION SUPPORT</span> USING THE "HALAL" METHOD',
+        'service-text' => '<p>The arrangement analysis of the design and estimate documentation (BOQs) -is an independent evaluation of the reliability of the compiled documents, which is any possible inaccuracies do 
+                             not affect to the affect the amount of investment or do not have any suspicions about the inflated amount of expenses by investors.</p>
+                            <p>Properly and competently developed construction documentation is considered one of the basic documents in any construction. 
+                                With proper and competent construction documentation, investors will get costs reduction, and exception of errors in budget planning.</p>
+                            <p>Arrangement of financial and construction inspection of project documents and comparing them with actual executed works to identify possible deviations, 
+                                violations and optimizations of the construction process in order to protect against the basic risk (cost overrun).</p>
+                            <p>Arrangement of agreements’ monitoring provides control of design, subcontractors’ agreements with clearly specified terms and conditions that take into account all the nuances of current legislation. 
+                                Besides, it provides the control of procurement agreements for construction materials, structures, goods and equipment within the cost estimate and compliance with technical standards.</p>',
+        'service-consist-header' => 'SCOPE OF SERVICE',
+        'service-consist-text-1' => 'Within the framework of the contract for the provision of a private "Customer services" for the construction documentation support, the KLICHOF GROUP team will assume the rights, 
+                                    obligations and responsibility for the performance of the basic scope of services, not limited to the following:',
+        'service-consist-text-2' => 'The basic scope of services remains unchanged, and their details, with the inclusion of additional or reduced services, should always be regulated in the contract by the KLICHOF GROUP team and investors.',
+        'service-consist-part-1' => 'arrangement of analysis of design and estimate documentation and issuing recommendations',
+        'service-consist-part-2' => 'arrangement of monitoring and issuing recommendations for the development of construction documentation in the prescribed manner',
+        'service-consist-part-3' => 'arrangement of financial and construction analysis and issuing recommendations',
+        'service-consist-part-4' => 'arrangement of monitoring of contracts for design, construction, and procurement as well as issuing recommendations',
+        'service-price-header' => 'COST OF SERVICES',
+        'service-price-text' => '<p>The cost of these services of the KLICHOF GROUP team depends on the volume of services and is up to 3% of the amount of reasonable 
+                                    actual construction costs only, taking into account the imposed taxes, that at any time can easily be controlled and checked by investors during any construction.</p>
+                                <p>In practice, the cost of these services is negotiated and limited to the salary of specialists. And for some reason, investors try to save money on these services. Therefore, some unscrupulous 
+                                    "specialists" mainly work for the convenience of designers, contractors and suppliers with understandable motivation.</p>
+                                <p>Paying up the cost of these services of the KLICHOF GROUP team up to 3%, investors will save their funds from 5% to 10 % by applying the "HALAL" method when arranging the management and 
+                                    control over design and high-quality construction in the part of the construction documentation.</p>',
+    ],
 ];

@@ -185,5 +185,32 @@ return [
                                     loyihalash va sifatli qurilish ishlarini boshqarish va nazorat qilishni "Texnik buyurtmachi" qismida tashkil qiladi va investorlar mablag‘larini 10% dan 20% gacha tejaydi.
                                     </p>',
     ],
+    'document' => [
+        'header-other' => 'QURILISH HUJJATLARIDAGI TARTIB HAR QANDAY HOLATDA VA HAR QANDAY VAQTDA JUDA ZARURDIR',
+        'service-header' => 'AYNAN "HALOL" USULI BILAN <span>QURILISH HUJJATLARI NAZORATINI</span> XUSUSIY "BUYURTMACHI" XIZMATI ORQALI KO‘RSATISH',
+        'service-text' => '<p>Qurilish hujjatlarining mustaqil baholanishi, hisobotlarda qilingan xarajatlarning aks ettirilishi, har qanday noaniqlar kiritilgan sarmoyalar hajmiga taʼsir qilmasligi yoki qilinayotgan qurilish xarajatlarida 
+                                investorlarning shubha qilmasligi uchun LQX (Loyiha qurilish xujjatlarini) tahlil qilish kerakligini bildiradi.</p>
+                            <p>Ishlab chiqilgan qurilish hujjatlari investorlar uchun asosiy va muhim hisoblanib,  har qanday qurilishda to‘g‘ri va puxta 
+                                tahlil qilingan hujjatlar, qurilish xarajatlarining kamayishi va qurilish byujetini rejalashtirishda xatolarga yo‘l qo‘ymaslikka olib keladi.</p>
+                            <p>Qilingan shartnomalarning monitoringini tashkil etish bu loyihalash, pudrat va yetkazib beruvchi tashkilotlar bilan qilinadigan shartnomalarni aniq 
+                                belgilangan shartlar va amaldagi qonun hujjatlarining barcha nyuanslarini hisobga olgan holda nazoratini taʼminlaydi.</p>
+                            <p>Bundan tashqari, bu monitoring, qurilish mollari, konstruksiyalari va uskunalarini yetkazib berish uchun qilingan shartnomalarni qurilish 
+                                byudjeti ichida bo‘lishligi va standartlarga muvofiqligini taʼminlaydi.</p>',
+        'service-consist-header' => 'XIZMAT TARKIBI',
+        'service-consist-text-1' => 'Har qanday qurilish hujjatlari nazoratini tashkil etishda, xususiy "Buyurtmachi" vazifasini shartnoma doirasida quyidagi asosiy xizmatlar 
+                                    to‘plamini bajarish uchun shaxsan KLICHOF GROUP huquq, majburiyat va javobgarliklarni o‘z zimmasiga oladi:',
+        'service-consist-text-2' => 'Xizmatlarning asosiy tarkibi o‘zgarishsiz qoladi, va ularning batafsil tarkibi, ularga qilinadign qo‘shimcha yoki kamaytirishlar, har doim KLICHOF GROUP va investorlar tomonidan shartnoma asosida tartibga solinadi.',
+        'service-consist-part-1' => 'loyiha - smeta hujjatlari tahlilini tashkil etadi va tavsiyalar beradi',
+        'service-consist-part-2' => 'belgilangan tartibda qurilish hujjatlarini ishlab chiqish bo‘yicha monitoringni tashkil qiladi va tavsiyalar beradi',
+        'service-consist-part-3' => 'moliyaviy - qurilish tahlilini tashkil etadi va tavsiyalar beradi',
+        'service-consist-part-4' => 'loyihalash, qurilish ishlari, yetkazib berish shartnomalarini monitoringini tashkil etadi va tavsiyalar beradi',
+        'service-price-header' => 'XIZMAT NARXI',
+        'service-price-text' => '<p>KLICHOF GROUP ning xizmatlar narxi qilinadigan xizmatlar hajmidan kelib chiqadi va belgilangan soliqlarni hisobga olgan holda, qurilishga ketgan haqiqiy xarajatlar miqdorining 3% gachasini 
+                                    tashkil etadi. Har qanday qurilishda bu harajatlarni investorlar osonlik bilan nazorat qilishlari va tekshirishlari mumkin.</p>
+                                <p>Amalda esa, bu xizmatlarning narxi kelishilgan bo‘lib, mutaxassislarning oylik maoshi bilan cheklanadi va negadir, investorlar mablag‘ni aynan shu xizmatlar evaziga tejashga harakat qiladilar. 
+                                    Shuning uchun, baʼzi bir insofsiz "mutaxassis" lar, aniq bir foyda evaziga, asosan,  loyihalovchi, pudrat va yetkazib beruvchi tashkilotlar foydasiga ishlashadi.</p>
+                                <p>Ushbu xizmatlar uchun, qurilishga ketgan haqiqiy xarajatlar miqdorining 3% gacha to‘lash bilan, KLICHOF GROUP  "HALOL" usulini qo‘llab,  loyihalashtirish va sifatli qurilish ishlarini 
+                                    boshqarish va nazorat qilishni tashkil etadi va investorlar mablag‘larini 5% dan 10% gacha tejaydi.</p>',
+    ],
 ];
 
