@@ -212,4 +212,35 @@ return [
                                 <p>Paying up the cost of these services of the KLICHOF GROUP team up to 3%, investors will save their funds from 5% to 10 % by applying the "HALAL" method when arranging the management and 
                                     control over design and high-quality construction in the part of the construction documentation.</p>',
     ],
+    'management' => [
+        'header-other' => 'CONSTRUCTION MANAGEMENT SHALL BE ENTRUSTED TO AN INDEPENDENT (FROM DESIGNERS, CONTRACTORS AND SUPPLIERS), PROFESSIONAL AND RELIABLE TEAM OF KLICHOF GROUP',
+        'service-header' => 'PROVISION A PRIVATE "OWNER’S ENGINEER” SERVICES FOR THE <span>CONSTRUCTION MANAGEMENT</span> USING THE <span>"HALAL"</span> METHOD',
+        'service-text' => '<p>The KLICHOF GROUP provides integrated management of any construction according to the scenarios agreed with the investors before the work commencement. 
+                                Any construction is managed when investors assign the KLICHOF GROUP to perform this service under a contract.</p>
+                            <p>Thus, the KLICHOF GROUP, as a professional team, assumes the rights, obligations and responsibilities to perform functions of a private "Customer services" using the "HALAL" method when organizing management 
+                                and control over design and high-quality construction. By using this method in any construction from the beginning to the end,  
+                                KLICHOF GROUP will save investors’ funds from 20% to 50% and time (period of 1.5 - 2 years from the date of receipt of the construction permit in the prescribed manner).</p>
+                            <p>At the same time, KLICHOF GROUP relieves all the responsibility from the investors, relieves from all the problems on synchronization of interactions, and supports with government 
+                                authorities and regulatory bodies in the field of construction. Arranges the management and monitoring over the work, selects a number of counterparties (designers, contractors and suppliers) with the 
+                                consent of investors, eliminates any cheating, does not allow an "expensive, low-quality and never-ending construction project" for investors.</p>',
+        'service-consist-header' => 'SCOPE OF SERVICE',
+        'service-consist-text-1' => 'Within the framework of the contract for the provision of a private "Customer services" services for the organization of any construction, the KLICHOF GROUP will assume the rights, obligations and responsibility for the performance of the basic scope of services, which include (but not limited to) the following:',
+        'service-consist-text-2' => 'The basic scope of services remains unchanged, and their details, with the inclusion of additional or reduced services, should always be regulated in the contract by the KLICHOF GROUP team and investors.',
+        'service-consist-part-1' => 'organization of primary analysis for making an investment decision, survey of land plot or buildings and structures during the reconstruction, assessment of all risks and opportunities for project implementation',
+        'service-consist-part-2' => 'organization of pre-design works, development of the concept, sketch booklet and pre-design budget in the prescribed manner and approving them with the investor',
+        'service-consist-part-3' => 'organization of obtaining initial permit documentation in all the state agencies and bodies, receiving all permits for project design of construction',
+        'service-consist-part-4' => 'preparation (adaptation) of the technical references for design in accordance of  investors’ requirements, as well as acting construction rules and regulations in in the Republic of Uzbekistan',
+        'service-consist-part-5' => 'arrangement of design, development (adaptation) of design, working, estimate documentation with a detailed project budget, obtainment a positive expert opinion',
+        'service-consist-part-6' => 'arrangement of the construction permit obtainment, management and control over the high-quality construction in accordance with the design and estimate documentation, as well as construction rules and regulations',
+        'service-consist-part-7' => 'arrangement of facility commissioning, cadastral registration and ownership of investors to the new facility in the prescribed manner',
+        'service-consist-part-8' => 'arrangement of the final project budget preparation for accounting in accordance with the established procedure with justification of investors’ funds saving',
+        'service-consist-part-9' => 'arrangement of the facility operation, control of reaching planned indicators, control of the facility’s operating activity or sale of the facility as a finished product',
+        'service-price-header' => 'COST OF SERVICES',
+        'service-price-text' => '<p>The cost of these services of the KLICHOF GROUP team depends on the volume of services and is up to 10% of the amount of reasonable actual construction 
+                                    costs only, taking into account the imposed taxes, that at any time can easily be controlled and checked by investors during any construction</p>
+                                <p>In practice, the cost of these services is up to 5% of the fixed estimated cost at current prices in the Republic of Uzbekistan, with all "expensive" rates, 
+                                    multiplying factors and standards. At the same time, some unscrupulous "Customers" mainly work for the convenience of designers, contractors and suppliers with understandable motivation</p>
+                                <p>Paying up the cost of these services to the KLICHOF GROUP team up to 10%, investors will save their funds from 20% to 50% by applying the 
+                                    "HALAL" method when organizing the management and control over design and high-quality construction</p>',
+    ],
 ];

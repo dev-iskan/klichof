@@ -212,5 +212,36 @@ return [
                                 <p>Ushbu xizmatlar uchun, qurilishga ketgan haqiqiy xarajatlar miqdorining 3% gacha to‘lash bilan, KLICHOF GROUP  "HALOL" usulini qo‘llab,  loyihalashtirish va sifatli qurilish ishlarini 
                                     boshqarish va nazorat qilishni tashkil etadi va investorlar mablag‘larini 5% dan 10% gacha tejaydi.</p>',
     ],
+    'management' => [
+        'header-other' => 'LOYIHA, PUDRAT VA QURILISH MATERIALLARINI YETKAZIB BERUVCHI TASHKILOTLARIDAN MUSTAQIL BO‘LGAN PROFESSIONAL VA ISHONCHLI KLICHOF GROUP GA QURILISH BOSHQARUVINI ISHONING',
+        'service-header' => 'AYNAN <span>"HALOL"</span> USULI BILAN <span>QURILISH BOSHQARUVINI</span> XUSUSIY  "BUYURTMACHI" XIZMATI ORQALI KO‘RSATSIH     ',
+        'service-text' => '<p>Investorlar bilan kelishilgan ssenariylarga ko‘ra KLICHOF GROUP har qanday qurilishni tashkil etishni kompleks holda boshqaradi. Investorlar qurilishni boshqarish xizmatini 
+                                shartnoma asosida KLICHOF GROUP ga topshirgandan so‘ng amalga oshiradi.</p>
+                            <p>Shunday qilib, KLICHOF GROUP, professional jamoa sifatida, o‘z zimmasiga huquq, majburiyat va javobgarliklarni olgan holda, "HALOL" usulida sifatli qurilishlarni tashkil 
+                                etishda xususiy "Buyurtmachi" vazifalarini amalga oshirish yo‘li bilan investorlarning 20% dan 50% gacha mablag‘larini tejaydi. Bundan tashqari, investorlarning vaktlarini 
+                                (belgilangan tartibda qurilishga ruxsat olingan kundan boshlab, 1.5 - 2  yil muddatda) tejaydi</p>
+                            <p>Shu tarzda, KLICHOF GROUP qurilish sohasida davlat organlari va nazoratchi tashkilotlar bilan o‘zaro sinxronlashtirish orqali muammolarini investorlardan olib tashlaydi. Qurilish ishlarini 
+                                boshqarish va nazoratini tashkillashtiradi, bu maqsadlar uchun  investorlar roziligi bilan, bir qator kontragentlar (loyihalovchilar, pudratchilar va yetkazib beruvchilar) tanlaydi, har qanday 
+                                aldovlarni oldini oladi, investorlar uchun "qimmat,  past sifatli va uzoq muddatli qurilish"ga yo‘l qo‘ymaydi.</p>',
+        'service-consist-header' => 'XIZMAT TARKIBI',
+        'service-consist-text-1' => 'Har qanday qurilishlarni tashkil etishda, xususiy "Buyurtmachi" vazifasini shartnoma doirasida quyidagi asosiy xizmatlar to‘plamini bajarish uchun shaxsan KLICHOF GROUP huquq, majburiyat va javobgarliklarni o‘z zimmasiga oladi:',
+        'service-consist-text-2' => 'Xizmatlarning asosiy tarkibi o‘zgarishsiz qoladi,  va ularning batafsil tarkibi,  ularga qilinadign qo‘shimcha yoki kamaytirishlar, har doim KLICHOF GROUP va investorlar tomonidan shartnoma asosida tartibga solinadi',
+        'service-consist-part-1' => 'investitsiyaviy qarorni qabul qilish uchun dastlabki tahlilni, yer uchastkasi yoki rekonstruksiyadagi bino va inshootlarni holatini tekshirishni, loyihani amalga oshirish uchun barcha xavf-xatar va imkoniyatlarni baholashni tashkil etadi',
+        'service-consist-part-2' => 'loyiha oldi ishlarini, konsepsiya, buklet loyihasi va loyiha oldi byudjetini belgilangan tartibda ishlab chiqishni tashkil etadi va ularni investor bilan kelishadi',
+        'service-consist-part-3' => 'barcha davlat instansiyalarida DRX (dastlabki ruxsat hujjatlari) olishni tashkil etadi, qurilishni loyihalashga ruxsatnomalar oladi',
+        'service-consist-part-4' => 'investorlarning talabi va amaldagi O‘zbekiston Respublikasi qurilishi normalari va qoidalariga asosan LTT (loyihalash texnik topshirig‘i) tayyorlaydi va moslashtiradi (adaptatsiya qiladi)',
+        'service-consist-part-5' => 'loyihalashni, ishchi loyiha va smeta hujjatlarini batafsil loyiha byudjeti bilan ishlab chiqishni tashkil etadi (moslashtiradi), loyiha uchun ijobiy ekspert xulosasi olishini tashkil qiladi',
+        'service-consist-part-6' => 'qurilish ruxsatnomasini olishni, sifatli obyekt qurilishini LSX (loyihalash smeta xujjat) lari va qurilish norma va qoidalariga asosan boshqarish va nazorat qilishni tashkil etadi',
+        'service-consist-part-7' => 'obyektni ishga tushirishni, investorlarning mulkka egalik huquqini ro’yxatga olish yo‘li bilan obyektni kadastr ro‘yxatiga qo‘yilishini belgilangan tartibda tashkil etadi',
+        'service-consist-part-8' => 'asoslangan tarzda investor mablag‘larining tejalganligi ko‘satish yo‘li bilan  loyihaning yakuniy byudjetini buxgalteriya hisoboti uchun  maʼlumotlarni belgilangan tartibda taqdim etadi',
+        'service-consist-part-9' => 'obyektni foydalanishga topshirishni tashkil etish, rejalashtirilgan ko‘rsatkichlarga erishishni nazorat qilish, obyektni tayyor mahsulot sifatida ishlashini yoki sotilishini nazorat qiladi',
+        'service-price-header' => 'XIZMAT NARXI',
+        'service-price-text' => '<p>KLICHOF GROUP ning bu xizmatlar uchun narxi, qilinadigan xizmatlar hajmidan kelib chiqadi va belgilangan soliqlarni hisobga olgan holda, qurilishga ketgan 
+                                    haqiqiy xarajatlar miqdorining 10% gacha tashkil etadi. Har qanday qurilishda bu xarajatlar investorlar tomonidan osonlik bilan nazorat qilinishi va tekshirilishi mumkin</p>
+                                <p>Amalda esa, bu xizmatlarning narxi O‘zbekiston Respublikasida joriy narxlarda belgilangan smeta qiymatining 5% gacha bo‘lib, o‘z ichiga barcha "qimmat" stavkalar, koeffitsiyent va qurilish normalarni qamrab 
+                                    oladi. Bundan tashkari, asosan, baʼzi bir vijdonsiz "Buyurtmachilar", aniq bir foyda evaziga,  loyihalovchi, pudrat va yetkazib beruvchi tashkilotlar foydasiga ishlashadi</p>
+                                <p>Ushbu xizmatlar uchun, qurilishga ketgan haqiqiy xarajatlar miqdorining 10% gacha to‘lash bilan, KLICHOF GROUP "HALOL" usulini 
+                                    qo‘llab loyihalash va sifatli qurilish ishlarini boshqarish va nazorat qilishni tashkil qiladi va investorlar mablag‘larini 20% dan 50% gacha tejaydi</p>',
+    ],
 ];
 

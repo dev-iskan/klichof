@@ -93,7 +93,7 @@
             <div class="col-md-10 col-md-offset-1 text-center colorlib-heading animate-box">
                 <h2>@lang('pages.document.service-header')</h2>
             </div>
-            <div class="col-md-12 colorlib-services-text">@lang('pages.construction.service-text')</div>
+            <div class="col-md-12 colorlib-services-text">@lang('pages.document.service-text')</div>
         </div>
     </div>
 
