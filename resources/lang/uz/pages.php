@@ -243,5 +243,46 @@ return [
                                 <p>Ushbu xizmatlar uchun, qurilishga ketgan haqiqiy xarajatlar miqdorining 10% gacha to‘lash bilan, KLICHOF GROUP "HALOL" usulini 
                                     qo‘llab loyihalash va sifatli qurilish ishlarini boshqarish va nazorat qilishni tashkil qiladi va investorlar mablag‘larini 20% dan 50% gacha tejaydi</p>',
     ],
+    'organization' => [
+        'header-other' => 'USHBU USULDA ISHTIROK ETADIGAN UY-JOY INVESTORLARINING VAQTI VA 50% GACHA MABLAG‘LARINI TEJILADI YOKI "BITTA XONADON O‘RNIGA IKKITAGACHA XONADONGA EGA BO‘LISHADI. ENG MUHIMI, SIZ "BIRINCHI NAVBATDA QO‘SHNILARNI TANLAYSIZ VA FAQAT SHUNDAN KEYIN XONADONNI OLASIZ"',
+        'service-header' => '<span>UY-JOY QURILISHINI "HALOL"</span> USULIDA TASHKIL ETISHDA XUSUSIY "BUYURTMACHI" XIZMATINI KO‘RSATISH',
+        'service-text' => '<p>O‘z xonadoni qurilishini tashkil etishda birgalikda jamoa bo‘lib sarmoya ko‘yadigan, bo‘lajak xonadon egalari tomonidan oldingi va bosqichma-bosqich har oylik moliyalashtirishni rejaga asosan to‘lov 
+                                to‘liq to‘langan taqdirda, KLICHOF GROUP O‘zbekistonda amalda bo‘lgan barcha texnologiyalar, qurilish norma va qoidalari talablariga muvofiq ko‘p qavatli uy-joy qurilishlarini tashkil etadi.</p>
+                            <p>Uy-joy qurilishini tashkil etishda "sheriklik" taklif qilmaydi, mavjud bo‘lmagan yoki hali qurilayotgan xonadonlarni chegirmalar bilan "sotmaydi". "HALOL" usulida zamonaviy  xonadonlarni loyihalash va sifatli
+                                qurilish ishlarini boshqarish va nazorat  qilishda mustaqil xususiy "Buyurtmachi" xizmatini to‘liq javobgarlikni olgan holda bajaradi. Uy-joyli bo‘lish maqsadida, birgalikda investorlar jamoasi bo‘lgan va 
+                                har xil aholi qatlamiga mansub muhtoj oilalar (ularning haqiqiy daromadlarini inobatga olgan holda) "asoslangan haqiqiy narxlar + 10%" evaziga yangi xonadonga ega bo‘ladilar. Bu yangi qurilgan xonadonlar 
+                                o‘sha joydagi mavjud yangi xonadonlarning bozor narxlaridan 50% gacha arzon bo‘lishidir</p>
+                            <p>KLICHOF GROUP, xususiy "Buyurtmachi" xizmati orqali uy-joy qurilishini (ruxsat olingandan keyin 1.5-2 yilda) tashkil etishda, eng muhimi o‘z xonadonlarining qurilishida investorlar bo‘lgan 
+                                jamoa oldida, sifatsiz qurilish yoki mablag‘larni maqsadsiz ishlatish bo‘yicha qonunda belgilangan javobgarlikni o‘z zimmisiga oladi.</p>',
+        'service-consist-header' => 'XIZMAT TARKIBI',
+        'service-consist-text-1' => 'Uy-joy qurilishini tashkil etishda xususiy "Buyurtmachi" vazifasini shartnoma doirasida quyidagi asosiy xizmatlar to‘plamini bajarish uchun  
+                                    shaxsan KLICHOF GROUP huquq, majburiyat va javobgarliklarni o‘z zimmasiga oladi:',
+        'service-consist-text-2' => 'Xizmatlarning asosiy tarkibi o‘zgarishsiz qoladi va ularning batafsilligi, ushbu xizmatlarning qo‘shimcha yoki qisqartirilgan
+                                     hajmlarini kiritish bilan har doim  KLICHOF GROUP va investorlar tomonidan shartnomada tartibga solinadi.',
+        'service-consist-part-1' => 'uy-joy investorlarning zarur bo‘lgan sonini jalb qiladi (qurilishni tashkil etishni reja asosida to‘liq dastlabki va bosqichma-bosqich oylik moliyalashtirishni amalga oshirishga rozi bo‘lganlar hisobiga)',
+        'service-consist-part-2' => 'Toshkent va viloyat markazlarining yirik shaharlarida yer uchastkalarini dastlabki o‘rganishini tashkil etadi, loyihani amalga oshirish uchun barcha xavf- xatar va imkoniyatlarni baholaydi',
+        'service-consist-part-3' => 'uy-joy investorlari jamoasi bilan kelishilgan holda, qonun hujjatlarida belgilangan tartibda, uy-joy qurilishini tashkil etish uchun yer uchastkalarini sotib oladi',
+        'service-consist-part-4' => 'loyiha oldi ishlarini, konsepsiya, buklet loyihasi va loyiha oldi byudjetini belgilangan tartibda ishlab chiqishni tashkil etadi va ularni investorlar jamoasi bilan kelishadi',
+        'service-consist-part-5' => 'qonun hujjatlarida belgilangan tartibda barcha davlat instansiyalaridan DRX (dastlabki ruxsat hujjatlar) olishni tashkil etadi, qurilishni loyihalashga ruxsatnomasini oladi',
+        'service-consist-part-6' => 'birgalikda uy-joy investorlar jamoasi bilan va ularning istaklarini hisobga olgan holda qurilish normalari va qoidalarga muvofiq loyiha-topshirig‘ini tayyorlaydi',
+        'service-consist-part-7' => 'batafsil loyiha byudjetiga ega bo‘lgan LSX (loyiha-smeta hujjatlari) ishlab chiqishni tashkil etadi, ijobiy ekspert xulosasini oladi va uni investorlar jamoasi bilan tasdiqlaydi',
+        'service-consist-part-8' => 'qurilishga ruxsatnoma oladi va qurilish-montaj ishlarini loyiha-smeta hujjatlari, O‘zbekiston Respublikasida amalda bo‘lgan qurilish qoidalariga muvofiq boshlanishi va tugatilishini tashkil etadi',
+        'service-consist-part-9' => 'ruxsatni olgan holda barcha muhandislik kommunnikatsiyalariga  ulanadi,  qurilishi tugallangan turar-joy binosini foydalanishiga tushirishni tashkil etadi, barcha uy-joy investorlarining egalik huquqini ro‘yxatdan o‘tkazadi',
+        'service-consist-part-10' => 'mablag‘lar tejalishini tasdiqlash uchun, barcha uy-joy investorlariga yakuniy byudjetni belgilangan tartibda tayyorlanishini tashkil etadi',
+        'service-consist-part-11' => 'uy-joy egalari bilan birlalikda,  binodan foydalanuvchi tashkilotni tashkil etadi va obyektning kafolat muddati nazoratini unga topshiradi',
+        'service-price-header' => 'XIZMAT NARXI',
+        'service-price-text' => '<p>KLICHOF GROUP ning bu xizmatlar uchun narxi qilinadigan xizmatlarning hajmidan kelib chiqadi va belgilangan soliqlar hisobga olingan holda, qurilishga ketgan haqiqiy
+                                     xarajatlar miqdorining 10% gachasini tashkil etadi. Har qanday  uy-joy qurilishida bu xarajatlar investorlar tomonidan osonlik bilan nazorat qilinishi va tekshirilishi mumkin</p>
+                                <p>Uy-joy qurilishini tashkil etishda, "HALOL" usuli orqali loyihalash va sifatli qurilishlarni boshqarish va nazorat qilish bilan uy-joy investorlariga, bir kvadrat metr xonadon maydonining narxi 
+                                    200 AQSH $ dan 650 AQSH $ gacha bo‘ladi (bir kvadrat metr xonadon maydonining 650 AQSH $ narxi bu uy-joy qurilishining joyi Toshkent 
+                                    shahrining  markaziy qismlaridagi narxidir). Bu narx ichida kelishilgan planirovka, dizayn, sifatli bezash, santexnika va mebel ham kiradi.</p>
+                                <p>Xonadonlarning narxi ko‘proq quriladigan ko‘p qavatli uylarning O‘zbekistondagi joyi va u yerdagi muhandislik tarmoqlarining mavjudligiga bog‘liq bo‘ladi. Va ushbu yangi xonadonlarning narxi aynan shu 
+                                    manzilda qurilgan xuddi  shunday xonadonlarning bozor narxidan aniq 50% gacha arzon bo‘ladi. 
+                                    Shu yerda "bir xonadon o‘rniga ikkitagacha xonadonga" yoki "bir xonadon o‘zi uchun, ikkinchisi sotish uchun" degan prinsiplar kelib chiqadi.</p>
+                                <p>Amalda ushbu xizmatlarning belgilangan qiymati mavjud emas. Uy-joy qurishida bunday xizmatlarni O‘zbekistonda hech bir "Buyurtmachi - quruvchi" ko‘rsatmaydi. Bo‘lajak xonadon egalari, eʼlonlarga ko‘ra, chegirmalar bilan 
+                                    hali mavjud bo‘lmagan va qurilayotgan xonadonlarni sotib olish uchun yoki xonadon qurilishiga "sherik" sifatida jalb qilinadi.</p>
+                                <p>Bizning holda, uy-joy investorlari, KLICHOF GROUP ga qurilish davomida haqiqiy qurilish xarajatlarini + xususiy "Buyurtmachi" xizmatlarini uchun asoslangan xarajatlarning 10% gachasini to‘lab, 
+                                    50% gacha o‘z mablag‘larini tejab qoladilar.</p>',
+    ]
 ];
 

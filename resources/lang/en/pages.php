@@ -243,4 +243,45 @@ return [
                                 <p>Paying up the cost of these services to the KLICHOF GROUP team up to 10%, investors will save their funds from 20% to 50% by applying the 
                                     "HALAL" method when organizing the management and control over design and high-quality construction</p>',
     ],
+    'organization' => [
+        'header-other' => 'HOUSING INVESTORS WHO PARTICIPATE IN THIS METHOD WILL GET QUALITY, TIME AND FUNDS SAVINGS OF UP TO 50% OR "UP TO TWO APARTMENTS INSTEAD OF ONE" 
+                            AND, MOST IMPORTANTLY, CHOOSE THE NEIGHBORS FIRST AND ONLY THEN THE APARTMENT',
+        'service-header' => 'PROVISION A PRIVATE "CUSTOMER SERVICES" FOR THE <span>ARRANGEMENT OF HOUSING CONSTRUCTION</span> USING THE <span>"HALAL"</span> METHOD',
+        'service-text' => '<p>Subject to full of advancement and phased monthly funding of the total scope of services by the team of housing investors (future apartment owners), the KLICHOF GROUP will organize 
+                                the construction of residential buildings in accordance with the technology and requirements of acting construction rules and regulations in Uzbekistan.</p>
+                            <p>KLICHOF GROUP will organize housing construction not as a "partner in equity housing construction" or "selling of non-existent yet apartments or apartments under construction", but as a responsible private 
+                                "Customer", using the "HALAL" method when organizing the management and control over design and high quality of housing.  Using this method as a private "Customer",  KLICHOF GROUP provides modern apartments 
+                                "at reasonable actual costs + 10%" for a joint team of Investors and families in need of housing from different segments of the population according to the real family income with funds savings of up to 50% 
+                                of the market value of similar housing at the place of construction</p>
+                            <p>At the same time, the KLICHOF GROUP as a professional team assumes the rights, obligations and, most importantly, responsibility on legislation for high-quality construction and for misuse of housing 
+                                investors’ funds  by providing a private "Customer services" when organizing housing construction with period of 1.5 - 2 years from the date of receipt of the construction permit in the prescribed manner.</p>',
+        'service-consist-header' => 'SCOPE OF SERVICE',
+        'service-consist-text-1' => 'Within the framework of the contract for the provision of a private "Customer services" for the organization housing construction, the KLICHOF GROUP will assume 
+                                    the rights, obligations and responsibility for the performance of the basic scope of services, not limited to the following:',
+        'service-consist-text-2' => 'The basic scope of services remains unchanged, and their details, with the inclusion of additional or reduced services, should always be regulated in 
+                                    the contracts by the KLICHOF GROUP and investors teams.',
+        'service-consist-part-1' => 'attraction of the required number of housing investors (who have agreed to carry out the complete preliminary and staged monthly financing of the entire scope of services)',
+        'service-consist-part-2' => 'arrangement of primary study of land plots in Tashkent city and regional centers of large cities with the assessment of all risks and opportunities for project implementation',
+        'service-consist-part-3' => 'with the approval of housing investors purchase of land plots for the organization construction of residential buildings in the prescribed manner',
+        'service-consist-part-4' => 'organization of pre-design works, development of the concept, sketch booklet and pre-design budget in the prescribed manner and approving them with the housing investors',
+        'service-consist-part-5' => 'organization of obtaining initial permit documents from all the state agencies and bodies in the prescribed manner by obtaining of the permits for design of construction',
+        'service-consist-part-6' => 'preparation of technical specification for design in accordance with construction rules and regulations by  taking into account wishes of housing investors',
+        'service-consist-part-7' => 'arrangement of the design development and estimate documentation with the detailed project budget, obtainment a positive expert opinion and its coordination with the housing investors',
+        'service-consist-part-8' => 'arrangement of obtaining the permit for the beginning and completion of the construction works in accordance with the design and estimate documentation as well as acting construction rules and regulations in the Republic of Uzbekistan',
+        'service-consist-part-9' => 'arrangement commissioning of a residential buildings, obtaining permits to connect all utilities, registration of ownership rights to all housing investors',
+        'service-consist-part-10' => 'arrangement of the final budget preparation for all housing investors in the prescribed manner, with confirmation of funds savings',
+        'service-consist-part-11' => 'organizing creation of the operating & maintaining authority together with residents, ensuring the guaranteed term of the residential building within the specified period',
+        'service-price-header' => 'COST OF SERVICES',
+        'service-price-text' => '<p>The cost of these services of the KLICHOF GROUP team depends on the volume of services to be rendered and is up to 10% of the amount of reasonable actual housing construction costs only, 
+                                    taking into account the imposed taxes, that at any time can easily be controlled and checked by any housing investors during residential building construction.</p>
+                                <p>At the same time, most importantly, the cost of apartments for housing investors will eventually cost the equivalent of from 200 USD to 650 USD per 1 sq.m. of total area (650 USD is the maximum cost of 1 sq.m. 
+                                    of total area in the central parts of Tashkent city. This price also includes the agreed layout, design, high-quality finishing, plumbing and furniture) by applying the "HALAL" method when organizing the management
+                                    and control over design and high-quality construction.</p>
+                                <p>The price of apartment depends on the availability of utilities, the cost of land plots purchasing, taking into account the places of construction of residential buildings within the Republic of Uzbekistan. 
+                                    And this cost will always be up to 50% cheaper than the market value of similar housing at the place of construction. Hence, "up to two apartments instead of one" or "one for yourself and the other for sale".</p>
+                                <p>In practice, the current cost of these services does not exist. None "Property Developer" in Uzbekistan provides such services in housing construction. Future apartment owners are attracted as "partner shareholders" or "selling 
+                                    them non-existent yet apartments or apartments under construction with discounts (by using power of the advertisement).</p>
+                                <p>In our case, housing investors, by paying only the cost of reasonable actual construction costs + services of a private "Customer" of 
+                                    up to 10% during the construction to the KLICHOF GROUP team, will receive apartments at reasonable actual costs + 10%, while housing investors will save their funds of up to 50%.</p>',
+    ]
 ];
