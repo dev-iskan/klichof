@@ -23,14 +23,12 @@
                         </li>
                         <li><a href="{{route('main')}}#colorlib-services">@lang('pages.header.why_we')</a></li>
                         <li><a href="#colorlib-contact">@lang('pages.header.contact')</a></li>
-                        <li>
-
-                            <select name="lang" id="lang">
-                                <option value="uzb">UZ</option>
-                                <option value="rus">RU</option>
-                                <option value="eng">EN</option>
-                            </select>
-
+                        <li class="lang-text">
+                            <ul>
+                            <li class="lang-text-uz"><a href="#">UZ</a></li>
+                            <li class="lang-text-ru"><a href="#"><span>/</span> RU <span>/</span></a></li>
+                            <li class="lang-text-en"><a href="#">ENG</a></li>
+                            </ul>
                         </li>
                     </ul>
                 </div>
