@@ -465,9 +465,9 @@ h1, h2, h3, h4, h5, h6, figure {
   #colorlib-intro .tabulation , #service-intro .tabulation {
     margin-top: -6em;
     z-index: 1;
-    padding: 0 4em !important;}
+    padding: 0 3em !important;}
   #colorlib-intro .tab-content, #service-intro .tab-content {
-    padding: 2em 1em !important;
+    padding: 1em 1em !important;
     background: #fff; }
   #colorlib-intro .nav-tabs, #service-intro .nav-tabs {
     margin: 0 !important;
@@ -546,14 +546,15 @@ h1, h2, h3, h4, h5, h6, figure {
         width: 100%;
         margin: 0;
         border: none;
-        padding: 25px 15px !important;
+        padding: 0px 15px !important;
         background: rgba(255, 255, 255, 0.7);
         color: #4d4d4d;
         -webkit-border-radius: 0;
         -moz-border-radius: 0;
         -ms-border-radius: 0;
         border-radius: 0;
-        font-size: 15px;}
+        font-size: 13px;
+        text-align: center;}
         #colorlib-intro .nav-tabs li a i, #service-intro .nav-tabs li a i {
           margin-right: 5px;
           color: #fee715;
@@ -568,7 +569,13 @@ h1, h2, h3, h4, h5, h6, figure {
           color: #101820;
           border: none;
           background: #fff;
-          bottom: 0 !important;}
+          bottom: 0 !important;
+          text-align: center;}
+          #colorlib-intro .nav-tabs li a i, #service-intro .nav-tabs li a i {
+            margin-right: 10px;
+            font-size: 35px !important;
+            display: block;
+          }
 
 .services-img {
   height: 320px;
@@ -1934,8 +1941,17 @@ input[type="text"] {
   .colorlib-nav #colorlib-logo a img {
     width: 150px;
   }
+  #colorlib-intro .tabulation , #service-intro .tabulation {
+    margin-top: -7em;
+  }
   #colorlib-intro .nav-tabs li a, #service-intro .nav-tabs li a {
-    font-size: 17px;
+    font-size: 15px;
+    line-height: 1.5;
+    padding-bottom: 15px !important;
+    padding-top: 15px !important;
+  }
+  #colorlib-intro .tab-content, #service-intro .tab-content {
+    padding: 2em 1em !important;
   }
   #colorlib-intro .nav-tabs li a i, #service-intro .nav-tabs li a i {
     font-size: 30px;
@@ -1955,8 +1971,17 @@ input[type="text"] {
   }
 }
 @media (min-width: 1280px) and (max-width: 1600px) {
+  #colorlib-intro .tabulation , #service-intro .tabulation {
+    margin-top: -7em;
+  }
   #colorlib-intro .nav-tabs li a, #service-intro .nav-tabs li a {
     font-size: 14px;
+    line-height: 1.3;
+    padding-bottom: 13px !important;
+    padding-top: 13px !important;
+  }
+  #colorlib-intro .tab-content, #service-intro .tab-content {
+    padding: 2em 1em !important;
   }
   .colorlib-heading h2 {
     font-size: 23px;
@@ -2002,7 +2027,7 @@ input[type="text"] {
   }
   #colorlib-intro .nav-tabs li a{
     font-size: 12px;
-    padding: 22px 7px !important;
+    padding: 5px 7px !important;
   }
   #service-intro .nav-tabs li a {
     font-size: 12px;
@@ -2011,6 +2036,7 @@ input[type="text"] {
   #service-intro .nav-tabs li .number {
     margin-right: 8px;
   }
+
   #colorlib-intro .nav-tabs li a i, #service-intro .nav-tabs li a i {
     font-size: 17px;
     margin-right: 3px;
@@ -2164,7 +2190,7 @@ input[type="text"] {
     padding: 40px 20px;
   }
   #colorlib-intro .nav-tabs li a{
-    font-size: 17px;
+    font-size: 13px;
     text-align: center;
     letter-spacing: 1px;
   }
