@@ -137,14 +137,15 @@ h1, h2, h3, h4, h5, h6, figure {
         -o-transition: 0.5s;
         transition: 0.5s; 
         font-weight: 600;}
-        .colorlib-nav .lang-text .lang-text-ru {
-          position: relative;
-          font-size: 16px;
-          color: rgba(255, 255, 255, 0.9);
-          -webkit-transition: 0.5s;
-          -o-transition: 0.5s;
-          transition: 0.5s; 
-          font-weight: 600;}
+        .colorlib-nav ul .lang-text-uz a{
+          padding: 30px 0 30px 30px;
+        }
+        .colorlib-nav ul .lang-text-ru a{
+          padding: 30px 0;
+        }
+        .colorlib-nav ul .lang-text-en a{
+          padding: 30px 0;
+        }
         .colorlib-nav ul li a:hover {
           color: #fee715; }
       .colorlib-nav ul li.has-dropdown {
