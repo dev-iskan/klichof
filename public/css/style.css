@@ -148,6 +148,9 @@ h1, h2, h3, h4, h5, h6, figure {
         }
         .colorlib-nav ul li a:hover {
           color: #fee715; }
+        .colorlib-nav ul .lang-text-ru a span:hover{
+          color: #fff;
+        }
       .colorlib-nav ul li.has-dropdown {
         position: relative; }
         .colorlib-nav ul li.has-dropdown .dropdown {
@@ -2273,6 +2276,9 @@ input[type="text"] {
 }
 
 @media (min-width: 480px) and (max-width: 767px) {
+  #colorlib-offcanvas ul li a span {
+    display: none;
+  }
   .tc {
     position: relative;
     top: 50%;
@@ -2470,6 +2476,9 @@ input[type="text"] {
 }
 
 @media (min-width: 320px) and (max-width: 480px) {
+  #colorlib-offcanvas ul li a span {
+    display: none;
+  }
   .tc {
     position: relative;
     top: 50%;
