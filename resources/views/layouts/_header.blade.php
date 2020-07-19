@@ -23,9 +23,9 @@
                         </li>
                         <li><a href="{{route('main')}}#colorlib-services">@lang('pages.header.why_we')</a></li>
                         <li><a href="#colorlib-contact">@lang('pages.header.contact')</a></li>
-                        <li class="lang-text-uz"><a href="#">UZ</a></li>
-                        <li class="lang-text-ru"><a href="#"><span>/</span> RU <span>/</span></a></li>
-                        <li class="lang-text-en"><a href="#">ENG</a></li>
+                        <li class="lang-text-uz"><a href="{{LaravelLocalization::getLocalizedURL('uz', null, [], true)}}">UZ</a></li>
+                        <li class="lang-text-ru"><a href="{{LaravelLocalization::getLocalizedURL('ru', null, [], true)}}"><span>/</span> RU <span>/</span></a></li>
+                        <li class="lang-text-en"><a href="{{LaravelLocalization::getLocalizedURL('en', null, [], true)}}">ENG</a></li>
                         </li>
                     </ul>
                 </div>
