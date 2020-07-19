@@ -283,6 +283,20 @@ return [
                                     hali mavjud bo‘lmagan va qurilayotgan xonadonlarni sotib olish uchun yoki xonadon qurilishiga "sherik" sifatida jalb qilinadi.</p>
                                 <p>Bizning holda, uy-joy investorlari, KLICHOF GROUP ga qurilish davomida haqiqiy qurilish xarajatlarini + xususiy "Buyurtmachi" xizmatlarini uchun asoslangan xarajatlarning 10% gachasini to‘lab, 
                                     50% gacha o‘z mablag‘larini tejab qoladilar.</p>',
-    ]
+    ],
+    'contacts' => [
+        'contact-header-1' => 'aloqa uchun',
+        'contact-header-2' => 'biz bilan bog‘laning',
+        'contact-address' => 'Samarqand shahri, <br>Navoiy shox ko‘chasi 51/31',
+        'contact-phone-number' => '<a href="#">+ 99898 142 26 62 <br> + 99890 224 26 62 </a>',
+        'contact-mail' => 'klichofgroup@gmail.com',
+        'contact-form-name' => 'Ismingiz',
+        'contact-form-surname' => 'Familiyangiz',
+        'contact-form-mail' => 'E-pochta :',
+        'contact-form-phone' => 'Telefon raqamingiz (998*********)',
+        'contact-form-organization' => 'Tashkilot nomi',
+        'contact-form-subject' => 'Xabar mavzusi',
+        'contact-form-text' => 'Xabar matni',
+    ],
 ];
 

@@ -283,5 +283,19 @@ return [
                                     them non-existent yet apartments or apartments under construction with discounts (by using power of the advertisement).</p>
                                 <p>In our case, housing investors, by paying only the cost of reasonable actual construction costs + services of a private "Customer" of 
                                     up to 10% during the construction to the KLICHOF GROUP team, will receive apartments at reasonable actual costs + 10%, while housing investors will save their funds of up to 50%.</p>',
-    ]
+    ],
+    'contacts' => [
+        'contact-header-1' => 'contacts',
+        'contact-header-2' => 'contact with us',
+        'contact-address' => 'Samarkand city, <br> Navoi Avenue 51/31',
+        'contact-phone-number' => '<a href="#">+ 99898 142 26 62 <br> + 99890 224 26 62 </a>',
+        'contact-mail' => 'klichofgroup@gmail.com',
+        'contact-form-name' => 'Name :',
+        'contact-form-surname' => 'Surname :',
+        'contact-form-mail' => 'E-mail:',
+        'contact-form-phone' => 'Telephone number (998*********)',
+        'contact-form-organization' => 'Organization',
+        'contact-form-subject' => 'Subject',
+        'contact-form-text' => 'Message text',
+    ],
 ];
