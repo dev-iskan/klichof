@@ -4,8 +4,8 @@
     <aside id="colorlib-hero">
         <div class="flexslider">
             <ul class="slides">
-                <li style="background-image: url(images/cover_img_3.jpg);">
-                    <div class="overlay"></div>
+                <li style="background-image: url({{asset('images/cover_img_3.jpg')}});">
+                <div class="overlay"></div>
                     <div class="container-fluid">
                         <div class="row tc">
                             <div class="col-md-8 col-sm-12 col-md-offset-2 slider-text">
@@ -31,7 +31,7 @@
                     </div>
                 </div>
                 <div class="col-lg-5 animate-box">
-                    <a href="#" class="staff-img staff-img2" style="background-image: url(images/owner.jpg);"></a>
+                    <a href="#" class="staff-img staff-img2" style="background-image: url({{asset('images/owner.jpg')}});"></a>
                 </div>
             </div>
         </div>
