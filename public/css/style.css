@@ -2026,9 +2026,11 @@ input[type="text"] {
   #colorlib-intro .tabulation, #service-intro .tabulation {
     padding: 0!important;
   }
-  #colorlib-intro .nav-tabs li a{
+  #colorlib-intro .nav-tabs li a, #service-intro .nav-tabs li a {
     font-size: 12px;
-    padding: 5px 7px !important;
+    line-height: 1.3;
+    padding-bottom: 10px !important;
+    padding-top: 5px !important;
   }
   #service-intro .nav-tabs li a {
     font-size: 12px;
@@ -2303,6 +2305,7 @@ input[type="text"] {
 }
 
 @media (min-width: 480px) and (max-width: 767px) {
+  
   #colorlib-offcanvas ul li a span {
     display: none;
   }
@@ -2424,7 +2427,7 @@ input[type="text"] {
     background-position: 60% 0px !important
   }
   .panel-body p {
-    font-size: 11px;
+    font-size: 14px;
   }
   .panel-body {
     padding: 1em !important;

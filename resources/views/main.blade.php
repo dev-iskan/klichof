@@ -30,22 +30,9 @@
                         </div>
                     </div>
                 </li>
-                <li style="background-image: url({{asset('images/img_bg_3.jpg')}});">
-                    <div class="overlay"></div>
-                    <div class="container-fluids">
-                        <div class="row">
-                            <div class="col-md-10 col-sm-12 col-md-offset-1 slider-text">
-                                <div class="slider-text-inner text-center">
-                                    @lang('pages.main.slider3')
-                                    @include('layouts._buttons')
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </li>
                 <li style="background-image: url({{asset('images/img_bg_5.jpg')}});">
                     <div class="overlay"></div>
-                    <div class="container-fluid">
+                    <div class="container-fluids">
                         <div class="row">
                             <div class="col-md-10 col-sm-12 col-md-offset-1 slider-text">
                                 <div class="slider-text-inner text-center">
@@ -63,6 +50,19 @@
                             <div class="col-md-10 col-sm-12 col-md-offset-1 slider-text">
                                 <div class="slider-text-inner text-center">
                                     @lang('pages.main.slider5')
+                                    @include('layouts._buttons')
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li style="background-image: url({{asset('images/img_bg_3.jpg')}});">
+                    <div class="overlay"></div>
+                    <div class="container-fluid">
+                        <div class="row">
+                            <div class="col-md-10 col-sm-12 col-md-offset-1 slider-text">
+                                <div class="slider-text-inner text-center">
+                                    @lang('pages.main.slider3')
                                     @include('layouts._buttons')
                                 </div>
                             </div>
@@ -397,7 +397,7 @@
                 <div class="col-md-2 col-sm-6 text-center animate-box">
                     <div class="counter-entry">
                         <span class="icon"><i class="flaticon-contract"></i></span>
-                        <span class="colorlib-counter-label">@lang('pages.main.research5')</span>
+                        <span class="colorlib-counter-label">@lang('pages.main.research6')</span>
                     </div>
                 </div>
             </div>

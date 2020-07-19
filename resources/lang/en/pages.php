@@ -16,7 +16,7 @@ return [
         'more' => 'Read more'
     ],
     'main' => [
-        'slider1' => '<h1>FOR THE FIRST TIME IN UZBEKISTAN, PROVIDING A PRIVATE <span>"CUSTOMER SERVICE"</span><br> FOR THE ORGANIZATION OF ANY CONSTRUCTION, USING THE <span>"HALAL"</span> METHOD</h1>',
+        'slider1' => '<h1>FOR THE FIRST TIME IN UZBEKISTAN, PROVIDING A PRIVATE <span>"CUSTOMER SERVICE"</span><br> FOR THE ORGANIZATION OF ANY CONSTRUCTION USING THE <span>"HALAL"</span> METHOD</h1>',
         'slider2' => '<h1><span>KLICHOF GROUP</span> - KNOWS HOW TO CHANGE THE SITUATION IN FAVOR OF INVESTORS IN ANY CONSTRUCTION</h1>',
         'slider3' => '<h1><span>KLICHOF GROUP</span> IS GUARANTIED: PROVIDE HIGH-QUALITY CONSTRUCTION OF ANY FACILITIES AND HOUSING CONSTRUCTION, RATIONAL SAVING OF YOUR TIME AND YOUR FINANCIAL RESOURCES UP TO <span>50%</span></h1>',
         'slider4' => '<h1><span>KLICHOF GROUP</span> WORKS ONLY FOR YOU, ON BEHALF OF YOU <br> AND FOR THE BENEFIT OF YOU</h1>',
@@ -61,7 +61,7 @@ return [
                                         </p>',
         'about-wrap' => '<h2>BY APPLYING THE "HALAL" METHOD WHEN ORGANIZING THE MANAGEMENT AND CONTROL OVER DESIGN AND HIGH-QUALITY CONSTRUCTION, THE KLICHOF GROUP:
                             <br> <span>-</span> WILL PROTECT ALL ECONOMIC INTERESTS AND LEGAL RIGHTS OF INVESTORS IN CONSTRUCTION WITH TIME AND FUNDS SAVINGS OF UP TO 
-                                                50% WHILE ORGANIZAING HIGH-QUALITY CONSTRUCTION WITHIN UZBEKISTAN;
+                                                50% WHILE ORGANIZING HIGH-QUALITY CONSTRUCTION WITHIN UZBEKISTAN;
                             <br> <span>-</span> WILL ENSURE THE ARRANGEMENT OF HIGH-QUALITY AND TIMELY HOUSING CONSTRUCTION AT REASONABLE ACTUAL PRICES AND WITH FUNDS 
                                                 SAVINGS OF UP TO 50% OR "UP TO TWO APARTMENTS INSTEAD OF ONE" FOR THOSE WHO INVEST IN THEIR OWN HOUSING.</h2>',
         '7-reasons-header' => '<h2> 7 IMPORTANT REASONS TO WORK WITH THE <span
@@ -105,7 +105,7 @@ return [
 
         '7-reasons-7-header' => 'fraud exception',
         '7-reasons-7-body' => '<p>Legitimate differences in the goals of participants in the construction or reconstruction process between the designer, contractor, supplier (more profit) and the investor or owner 
-                                    (maximum savings of funds and time, quality assurance) may lead (in fact, very often lead) to deceive of investors by unscrupulous designers, contractors and suppliers:</p>
+                                    (maximum savings of funds and time, quality assurance) may lead (in fact, very often lead) to deceive investors by unscrupulous designers, contractors and suppliers:</p>
                                                         <ul>
                                                             <li><span>replacement of materials, structures, products and equipment that are included in the project with cheaper ones</span>
                                                             </li>
@@ -203,7 +203,7 @@ return [
         'header-other' => 'THE ORDER IN THE CONSTRUCTION DOCUMENTATION IS REQUIRED IN ANY CASE AND AT ANY TIME',
         'service-header' => 'PROVISION A PRIVATE "CUSTOMER SERVICES" FOR THE <span>CONSTRUCTION DOCUMENTATION SUPPORT</span> USING THE "HALAL" METHOD',
         'service-text' => '<p>The arrangement analysis of the design and estimate documentation (BOQs) -is an independent evaluation of the reliability of the compiled documents, which is any possible inaccuracies do 
-                             not affect to the affect the amount of investment or do not have any suspicions about the inflated amount of expenses by investors.</p>
+                             not affect to the amount of investment or do not have any suspicions about the inflated amount of expenses by investors.</p>
                             <p>Properly and competently developed construction documentation is considered one of the basic documents in any construction. 
                                 With proper and competent construction documentation, investors will get costs reduction, and exception of errors in budget planning.</p>
                             <p>Arrangement of financial and construction inspection of project documents and comparing them with actual executed works to identify possible deviations, 
@@ -289,7 +289,7 @@ return [
         'service-price-text' => '<p>The cost of these services of the KLICHOF GROUP team depends on the volume of services to be rendered and is up to 10% of the amount of reasonable actual housing construction costs only, 
                                     taking into account the imposed taxes, that at any time can easily be controlled and checked by any housing investors during residential building construction.</p>
                                 <p>At the same time, most importantly, the cost of apartments for housing investors will eventually cost the equivalent of from 200 USD to 650 USD per 1 sq.m. of total area (650 USD is the maximum cost of 1 sq.m. 
-                                    of total area in the central parts of Tashkent city. This price also includes the agreed layout, design, high-quality finishing, plumbing and furniture) by applying the "HALAL" method when organizing the management
+                                    of total area in the central parts of Tashkent city). This price also includes the agreed layout, design, high-quality finishing, plumbing and furniture by applying the "HALAL" method when organizing the management
                                     and control over design and high-quality construction.</p>
                                 <p>The price of apartment depends on the availability of utilities, the cost of land plots purchasing, taking into account the places of construction of residential buildings within the Republic of Uzbekistan. 
                                     And this cost will always be up to 50% cheaper than the market value of similar housing at the place of construction. Hence, "up to two apartments instead of one" or "one for yourself and the other for sale".</p>
