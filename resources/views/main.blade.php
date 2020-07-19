@@ -245,7 +245,6 @@
                                                      aria-labelledby="headingTwo">
                                                     <div class="panel-body">
                                                         <ul>
-                                                            <li>
                                                             <li>@lang('pages.main.7-reasons-3-body')</li>
                                                         </ul>
                                                     </div>
@@ -272,7 +271,6 @@
                                                      aria-labelledby="headingThree">
                                                     <div class="panel-body">
                                                         <ul>
-                                                            <li>
                                                             <li>@lang('pages.main.7-reasons-4-body')</li>
                                                         </ul>
                                                     </div>
@@ -321,7 +319,6 @@
                                                      aria-labelledby="headingSix">
                                                     <div class="panel-body">
                                                         <ul>
-                                                            <li>
                                                             <li>@lang('pages.main.7-reasons-6-body')</li>
                                                         </ul>
                                                     </div>
@@ -347,7 +344,7 @@
                                                 <div id="collapseFive" class="panel-collapse collapse" role="tabpanel"
                                                      aria-labelledby="headingFive">
                                                     <div class="panel-body">
-                                                        <li>@lang('pages.main.7-reasons-7-body')</p>
+                                                        @lang('pages.main.7-reasons-7-body')
                                                     </div>
                                                 </div>
                                             </div>

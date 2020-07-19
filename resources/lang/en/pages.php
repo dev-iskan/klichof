@@ -16,7 +16,7 @@ return [
         'more' => 'Read more'
     ],
     'main' => [
-        'slider1' => '<h1>FOR THE FIRST TIME IN UZBEKISTAN PROVIDE A PRIVATE <span>"CUSTOMER SERVICE"</span><br> FOR THE ORGANIZATION OF ANY CONSTRUCTION, USING THE <span>"HALAL"</span> METHOD</h1>',
+        'slider1' => '<h1>FOR THE FIRST TIME IN UZBEKISTAN, PROVIDING A PRIVATE <span>"CUSTOMER SERVICE"</span><br> FOR THE ORGANIZATION OF ANY CONSTRUCTION, USING THE <span>"HALAL"</span> METHOD</h1>',
         'slider2' => '<h1><span>KLICHOF GROUP</span> - KNOWS HOW TO CHANGE THE SITUATION IN FAVOR OF INVESTORS IN ANY CONSTRUCTION</h1>',
         'slider3' => '<h1><span>KLICHOF GROUP</span> IS GUARANTIED: PROVIDE HIGH-QUALITY CONSTRUCTION OF ANY FACILITIES AND HOUSING CONSTRUCTION, RATIONAL SAVING OF YOUR TIME AND YOUR FINANCIAL RESOURCES UP TO <span>50%</span></h1>',
         'slider4' => '<h1><span>KLICHOF GROUP</span> WORKS ONLY FOR YOU, ON BEHALF OF YOU <br> AND FOR THE BENEFIT OF YOU</h1>',
@@ -131,15 +131,15 @@ return [
     ],
     'about' => [
         'desc' => '<h3>KLICHOF GROUP - KNOWS HOW TO CHANGE THE SITUATION IN FAVOR OF INVESTORS IN ANY CONSTRUCTION</h3>
-                        <p><b>For investors in construction:</b> designers, contractors and suppliers are key players in any construction/reconstruction projects. But at the same time, if Investors, by themselves are not specialists in construction and do not want to get in total a "low-quality, expensive and never-ending construction project", the participation of an independent private "Customer", who knows how to organize construction work for the benefit of Investors, is also required.</p>
+                        <p><b>For investors in construction:</b> Designers, contractors and suppliers are key players in any construction/reconstruction projects. But at the same time, if Investors, by themselves are not specialists in construction and do not want to get in total a "low-quality, expensive and never-ending construction project", the participation of an independent private "Customer", who knows how to organize construction work for the benefit of Investors, is also required.</p>
                         <p>Therefore, KLICHOF GROUP, as independent, professional construction consulting engineers, offers to Construction Investors, its services for guaranteed quality assurance, saving of time and, most importantly, your funds from 5% to 50% in any type of construction within Uzbekistan by applying the "HALAL" method when organizing the management and control over design and high-quality construction. By providing these services, KLICHOF GROUP protects all your economic interests and legal rights.</p>
-                        <p><b>For the investors in their own housing:</b> we are not "Customers and developers" and we do not offer you "to become a partner in equity housing construction", and we "do not sell you non-existent apartments or apartments under construction"</p>
+                        <p><b>For the investors in their own housing:</b> We are not "Customers and developers" and we do not offer you "to become a partner in equity housing construction", and we "do not sell you non-existent apartments or apartments under construction"</p>
                         <p>We, independent and professional construction consulting engineers, offer you, Investors or families in need of housing (taking your real family income into account), our services of an independent private "Customer" on the organizing of multi-storey residential buildings construction "at reasonable actual prices + 10%", as affordable housing.</p>
                         <p>And we will work only for you, on behalf of you and for the benefit of you, providing quality, saving of time and your funds up to 50% or "up to two apartments instead of one" by applying the "HALAL" method when organizing the management and control over design and high-quality construction of your housing</p>
                         <p>One of the main advantages of the "HALAL" method is that "all your future neighbors in apartments will be exactly identified prior to the beginning of the housing construction". Therefore, you "first choose your neighbors and only then get a new high-quality apartment in a timely manner".</p>
                         <p>Make the right choice and take a profitable decision for yourself!</p>
                         <p>Sincerely yours, <b>Furkat Khamdamov</b>.</p>',
-        'principle-header' => 'WORKING PRINCIPLES OF <span>KLICHOF GROUP</span>',
+        'principle-header' => '<h2>WORKING PRINCIPLES OF <span>KLICHOF GROUP</span></h2>',
         'principle-body-1' => 'always keep promises, never and under no circumstances break them first',
         'principle-body-2' => 'the actual cost, high-quality and timely work, competent documentation of all work, and only at the end financial interests',
         'principle-body-3' => 'earning fee for the provision of services only using the "HALAL" method, and never violate these principles, whatever benefits that might bring',
@@ -283,5 +283,19 @@ return [
                                     them non-existent yet apartments or apartments under construction with discounts (by using power of the advertisement).</p>
                                 <p>In our case, housing investors, by paying only the cost of reasonable actual construction costs + services of a private "Customer" of 
                                     up to 10% during the construction to the KLICHOF GROUP team, will receive apartments at reasonable actual costs + 10%, while housing investors will save their funds of up to 50%.</p>',
-    ]
+    ],
+    'contacts' => [
+        'contact-header-1' => 'contacts',
+        'contact-header-2' => 'contact with us',
+        'contact-address' => 'Samarkand city, <br> Navoi Avenue 51/31',
+        'contact-phone-number' => '<a href="#">+ 99898 142 26 62 <br> + 99890 224 26 62 </a>',
+        'contact-mail' => 'klichofgroup@gmail.com',
+        'contact-form-name' => 'Name',
+        'contact-form-surname' => 'Surname',
+        'contact-form-mail' => 'E-mail',
+        'contact-form-phone' => 'Telephone number (998*********)',
+        'contact-form-organization' => 'Organization',
+        'contact-form-subject' => 'Subject',
+        'contact-form-text' => 'Message text',
+    ],
 ];

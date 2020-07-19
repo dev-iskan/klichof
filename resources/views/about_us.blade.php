@@ -39,7 +39,7 @@
     <div id="colorlib-services">
         <div class="container">
             <div class="col-md-10 col-md-offset-1 text-center colorlib-heading animate-box">
-                <h2>@lang('pages.about.principle-header')</h2>
+                @lang('pages.about.principle-header')
             </div>
         </div>
         <div class="container services-width">
