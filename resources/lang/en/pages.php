@@ -159,6 +159,20 @@ return [
         'planned-body-4' => 'audit of design and estimate documentation',
         'planned-body-5' => 'financial and construction inspection',
     ],
+    'application' => [
+        'content-1' => 'Fill out the proposed form or call us. Our specialists will receive information from you and answer to your questions.',
+        'content-2' => 'Analysis of the information received from you allows us to determine exactly which of our services will be most beneficial for you and will help to radically solve your tasks or problems.',
+        'content-3' => 'At a personal meeting in our office, you will have the opportunity to learn more about our services and make sure of the competence of our specialists.',
+        'content-4' => 'We outline plans in detail and discuss all points of the prepared commercial offer for you, update the contract based on the specifics of your current tasks.',
+        'content-5' => 'Having determined the purpose and scope of work, we take full responsibility for the fulfillment of all the obligations that we have assumed under the concluded contract.',
+    ],
+    'application-header' => [
+        'content-1' => 'Contact with us',
+        'content-2' => 'Analyze the problem',
+        'content-3' => 'Arrange a meeting',
+        'content-4' => 'Present plans',
+        'content-5' => 'At the consent sign a contract',
+    ],
     'construction' => [
         'header-other' => 'CONSTRUCTION SUPPORT SHALL BE TRANSFERRED TO THE SAFE HANDS',
         'service-header' => 'PROVISION A PRIVATE "OWNER’S ENGINEER" SERVICES FOR THE <span>CONSTRUCTION SUPPORT</span> USING THE "HALAL" METHOD',

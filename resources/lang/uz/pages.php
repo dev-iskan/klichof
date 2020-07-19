@@ -157,6 +157,20 @@ return [
         'planned-body-4' => 'loyiha va smeta hujjatlarini tekshirish (audit)',
         'planned-body-5' => 'moliyaviy va qurilish auditi',
     ],
+    'application' => [
+        'content-1' => 'Taklif qilingan arizani toʼldiring yoki bizga telefon orqali qoʼngʼiroq qiling. Bizning mutaxassislarimiz sizdan maʼlumot olishadi va savollaringizga javob berishadi.',
+        'content-2' => 'Sizdan olingan maʼlumotlarning tahlili bizning qaysi xizmatlarimiz Siz uchun eng foydali ekanligini aniqlab olishga imkon beradi va sizning vazifalaringiz yoki muammolaringizni tubdan hal qilishga yordam beradi.',
+        'content-3' => 'Bizning ofisimizdagi shaxsiy uchrashuvda siz bizning xizmatlarimiz haqida koʼproq maʼlumotga ega boʼlishingiz va mutaxassislarimizning malakasiga ishonch hosil qilishingiz mumkin.',
+        'content-4' => 'Biz sizning rejangizni batafsil bayon qilamiz va siz uchun tayyorlangan tijorat taklifining barcha jihatlarini muhokama qilamiz, shartnomani joriy vazifalaringizning xususiyatlaridan kelib chiqqan holda tuzamiz.',
+        'content-5' => 'Ishning maqsadi va hajmini aniqlab, biz bilan tuzilgan shartnoma boʼyicha zimmamizga olgan majburiyatlarning bajarilishi uchun toʼliq javobgarlikni oʼz zimmamizga olamiz.',
+    ],
+    'application-header' => [
+        'content-1' => 'Biz bilan bog’laning',
+        'content-2' => 'Vazifani tahlil qilamiz',
+        'content-3' => 'Uchrashuv tashkil qilamiz',
+        'content-4' => 'Rejalarni belgilaymiz',
+        'content-5' => 'Rozi bo’lsangiz shartnoma tuzamiz',
+    ],
     'construction' => [
         'header-other' => 'QURILISHNI NAZORAT QILISHNI ISHONCHLI QOʼLLARGA BERISH LOZIM',
         'service-header' => '"HALOL" USULI BILAN <span>QURILISHLARNI NAZORAT QILISHNI</span> XUSUSIY "BUYURTMACHI" XIZMATI ORQALI TASHKIL ETISH',
